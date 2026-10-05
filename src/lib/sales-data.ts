@@ -7,7 +7,7 @@ export type Filters = { year: string; period: string; category: string; region: 
 export const initialFilters: Filters = { year: '2025', period: 'year', category: 'all', region: 'all' };
 export const salesData: Sale[] = [2024, 2025].flatMap(year => months.flatMap((_, month) => products.flatMap((product, p) => categories.flatMap((category, c) => regions.map((region, r) => {
   const season = [0.72, 0.81, 0.91, 0.85, 0.97, 1.09, 0.95, 1.02, 1.18, 1.32, 1.22, 1.46][month] ?? 1;
-  const units = Math.round((126 + ((month * 29 + p * 43 + c * 17 + r * 31) % 136)) * season * [1.7, 1.12, 0.98, 1.08, 0.9, 0.78][p] * [1.8, 1.1, 0.78, 0.65, 0.48][c] * (year === 2025 ? 1.145 : 1));
+  const units = Math.round((126 + ((month * 29 + p * 43 + c * 17 + r * 31) % 136)) * season * ([1.7, 1.12, 0.98, 1.08, 0.9, 0.78][p] ?? 1) * ([1.8, 1.1, 0.78, 0.65, 0.48][c] ?? 1) * (year === 2025 ? 1.145 : 1));
   const gross = units * (134 + p * 19 + c * 8);
   const discounts = Math.round(gross * (0.035 + c * 0.012));
   const sales = gross - discounts;
