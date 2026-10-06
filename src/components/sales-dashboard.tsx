@@ -1,4 +1,5 @@
 import { useMemo, useState } from 'react';
+import { DashboardShell } from '@/components/dashboard-shell';
 import { Link } from '@tanstack/react-router';
 import { AreaChart, Area, BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, PieChart, Pie, Cell } from 'recharts';
 import { BarChart3, LayoutDashboard, Package, Globe2, Download, RotateCcw, ChevronRight, ChevronLeft, ArrowUpRight, DollarSign, TrendingUp, ShoppingBag, Percent, CalendarDays, Search, Building2, SlidersHorizontal, ArrowDownUp, ArrowRight, Check } from 'lucide-react';
@@ -49,16 +50,7 @@ export function SalesDashboard({ view = 'overview' }: { view?: View }) {
   ];
   const sortBy = (key: typeof sort) => { if (sort === key) setDescending(d => !d); else { setSort(key); setDescending(true); } setPage(0); };
   const countryCodes: Record<string,string> = { 'Estados Unidos': 'US', 'Canadá': 'CA', 'França': 'FR', 'Alemanha': 'DE', 'México': 'MX' };
-  return <div className="dashboard">
-    <aside className="sidebar">
-      <div className="brand"><span className="brand-mark"><BarChart3 size={21} /></span><div><div className="brand-name">atlas<span className="text-chart-2">.</span></div><div className="brand-sub">SALES INTELLIGENCE</div></div></div>
-      <div className="nav-label">ANÁLISE COMERCIAL</div>
-      <nav className="sidebar-nav" aria-label="Navegação principal">{([{ to: '/', label: 'Visão geral', icon: LayoutDashboard, key: 'overview' }, { to: '/produtos', label: 'Produtos', icon: Package, key: 'products' }, { to: '/regioes', label: 'Regiões', icon: Globe2, key: 'regions' }] as const).map(item => <Button asChild variant="ghost" className="nav-item" key={item.key}><Link to={item.to} aria-current={view === item.key ? 'page' : undefined}><item.icon size={17} />{item.label}</Link></Button>)}</nav>
-      <div className="sidebar-bottom"><div className="workspace-label">ESPAÇO DE TRABALHO</div><div className="workspace-name"><Building2 size={15} className="text-muted-foreground" />Relatórios de vendas</div></div>
-    </aside>
-    <main className="main">
-      <header className="topbar"><div className="breadcrumb">Workspace <ChevronRight size={12} /><span className="breadcrumb-current">{view === 'overview' ? 'Visão geral' : view === 'products' ? 'Produtos' : 'Regiões'}</span></div><span className="demo-badge"><span />Dados demonstrativos</span></header>
-      <div className="content">
+  return <DashboardShell view={view}>
         <div className="page-heading"><div><h1>{titles[view]}</h1><p className="subtitle">{periodLabels[filters.period]} de {filters.year} <span className="mx-2">·</span> {filters.region === 'all' ? 'Todas as regiões' : filters.region}</p></div><div className="page-actions flex gap-2"><Button variant="outline" className="action-button" onClick={() => { setFilters(initialFilters); setSearch(''); setPage(0); }}><RotateCcw />Redefinir</Button><Button className="action-button" onClick={() => { exportCsv(rows); setExported(true); setTimeout(() => setExported(false), 2500); }}>{exported ? <Check /> : <Download />}{exported ? 'Exportado' : 'Exportar CSV'}</Button></div></div>
         <div className="filters">
           <FilterSelect label="Ano" year value={filters.year} options={['2025','2024'].map(y => ({ value: y, label: y }))} onChange={v => update('year',v)} />
@@ -78,7 +70,5 @@ export function SalesDashboard({ view = 'overview' }: { view?: View }) {
         </div>
         <section className="table-section"><div className="section-heading"><div><h2>{view === 'regions' ? 'Detalhamento por região' : 'Detalhamento de vendas'}</h2><p className="section-meta">Consolidado por {view === 'regions' ? 'país' : 'produto'} · {number(rows.length)} registros no período</p></div><label className="table-search"><Search size={14} /><input aria-label="Buscar na tabela" placeholder={view === 'regions' ? 'Buscar região...' : 'Buscar produto...'} value={search} onChange={e => { setSearch(e.target.value); setPage(0); }} /></label></div><div className="table-scroll"><table className="sales-table"><thead><tr><th>{view === 'regions' ? 'Região' : 'Produto'}</th><th className="numeric"><Button variant="ghost" size="sm" onClick={() => sortBy('sales')}>Receita <ArrowDownUp size={11} /></Button></th><th className="numeric"><Button variant="ghost" size="sm" onClick={() => sortBy('profit')}>Lucro bruto <ArrowDownUp size={11} /></Button></th><th className="numeric"><Button variant="ghost" size="sm" onClick={() => sortBy('units')}>Unidades <ArrowDownUp size={11} /></Button></th><th className="numeric">Descontos</th><th className="numeric">Margem</th></tr></thead><tbody>{tableRows.map(g => <tr key={g.name}><td><span className="product-cell"><span className="product-letter">{g.name.slice(0,1)}</span>{g.name}</span></td><td className="numeric">{money(g.sales)}</td><td className="numeric">{money(g.profit)}</td><td className="numeric">{number(g.units)}</td><td className="numeric text-muted-foreground">{money(g.discounts)}</td><td className="numeric"><span className="margin-badge">{percent(g.margin)}</span></td></tr>)}{!tableRows.length && <tr><td colSpan={6} className="empty-state">Nenhum resultado para “{search}”.</td></tr>}</tbody></table></div><div className="table-footer"><span>{filteredTable.length ? `${safePage*5+1}–${Math.min(safePage*5+5,filteredTable.length)} de ${filteredTable.length}` : '0 resultados'}</span><div className="flex items-center gap-3"><Button size="icon" variant="outline" aria-label="Página anterior" disabled={safePage === 0} onClick={() => setPage(safePage-1)}><ChevronLeft /></Button><span>{safePage+1} / {pageCount}</span><Button size="icon" variant="outline" aria-label="Próxima página" disabled={safePage >= pageCount-1} onClick={() => setPage(safePage+1)}><ChevronRight /></Button></div></div></section>
         <footer className="footer"><span>atlas. <span className="mx-2">/</span> Sales Intelligence</span><span>Dados simulados · Moeda demonstrativa: USD · Referência: Sales Report</span></footer>
-      </div>
-    </main>
-  </div>;
+  </DashboardShell>;
 }
