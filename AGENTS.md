@@ -11,4 +11,7 @@
 
 ## Dashboard architecture
 - Use deterministic local financial mock records and derive every KPI, chart, table and CSV from the same filtered records to keep analyses consistent.
-- Keep the three content routes on a shared dashboard presentation module with semantic CSS tokens so visual changes remain consistent across views.
+- Keep sales content in its shared presentation module and all dashboard routes in DashboardShell with semantic CSS tokens so navigation and styling remain consistent.
+
+- Keep HR employees and project assignments in a separate deterministic local model; derive filtered KPIs, charts and CSV from distinct employees and scoped assignments to avoid double counting.
+- Label HR reconstructed rows as simulated, use anonymous IDs and salary units without asserting a currency or historical period because the repository does not expose raw records.
