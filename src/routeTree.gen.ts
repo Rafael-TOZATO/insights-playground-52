@@ -12,6 +12,7 @@ import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as ProdutosRouteImport } from './routes/produtos'
 import { Route as RegioesRouteImport } from './routes/regioes'
+import { Route as RhRouteImport } from './routes/rh'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
@@ -28,35 +29,44 @@ const RegioesRoute = RegioesRouteImport.update({
   path: '/regioes',
   getParentRoute: () => rootRouteImport,
 } as any)
+const RhRoute = RhRouteImport.update({
+  id: '/rh',
+  path: '/rh',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/produtos': typeof ProdutosRoute
   '/regioes': typeof RegioesRoute
+  '/rh': typeof RhRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/produtos': typeof ProdutosRoute
   '/regioes': typeof RegioesRoute
+  '/rh': typeof RhRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/produtos': typeof ProdutosRoute
   '/regioes': typeof RegioesRoute
+  '/rh': typeof RhRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/produtos' | '/regioes'
+  fullPaths: '/' | '/produtos' | '/regioes' | '/rh'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/produtos' | '/regioes'
-  id: '__root__' | '/' | '/produtos' | '/regioes'
+  to: '/' | '/produtos' | '/regioes' | '/rh'
+  id: '__root__' | '/' | '/produtos' | '/regioes' | '/rh'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   ProdutosRoute: typeof ProdutosRoute
   RegioesRoute: typeof RegioesRoute
+  RhRoute: typeof RhRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -82,6 +92,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof RegioesRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/rh': {
+      id: '/rh'
+      path: '/rh'
+      fullPath: '/rh'
+      preLoaderRoute: typeof RhRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
@@ -89,6 +106,7 @@ const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   ProdutosRoute: ProdutosRoute,
   RegioesRoute: RegioesRoute,
+  RhRoute: RhRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
