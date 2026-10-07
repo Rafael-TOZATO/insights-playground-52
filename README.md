@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Insights Playground Banner" width="100%">
+  <img src="bannern8ncobrancas.jpg" alt="Insights Playground & Atlas Dashboard Banner" width="100%">
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ O **Insights Playground** é um ecossistema analítico interativo de alta perfor
 * `src/`: Código-fonte da aplicação web interativa e componentes de interface.
 * `public/`: Ativos estáticos e mídias do projeto.
 * `atlas-vendas.csv`: Base de dados transacional estruturada para suporte aos KPIs e relatórios do dashboard.
-* `banner.png`: Imagem principal de destaque (Banner corporativo do projeto).
+* `bannern8ncobrancas.jpg`: Banner corporativo principal de destaque do repositório.
 
 ---
 
