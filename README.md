@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-insights.svg" alt="Insights Playground Banner" width="100%">
+  <img src="banner.png" alt="Insights Playground Banner" width="100%">
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## 🚀 Sobre o Projeto
 
-O **Insights Playground** é um ecossistema analítico interativo de alta performance focado em inteligência comercial, gestão estratégica e visualização avançada de dados[cite: 7]. Desenvolvido integrando ferramentas modernas de engenharia de software e IA generativa via **Lovable**, este projeto simula um ambiente corporativo de tomada de decisões globais (Atlas Sales Intelligence)[cite: 1, 3].
+O **Insights Playground** é um ecossistema analítico interativo de alta performance focado em inteligência comercial, gestão estratégica e visualização avançada de dados. Desenvolvido integrando ferramentas modernas de engenharia de software e IA generativa via **Lovable**, este projeto simula um ambiente corporativo de tomada de decisões globais (Atlas Sales Intelligence)[cite: 1, 3].
 
 * **Live App:** [https://insights-playground-52.lovable.app](https://insights-playground-52.lovable.app)[cite: 3]
 * **Repositório GitHub:** [Rafael-TOZATO/insights-playground-52](https://github.com/Rafael-TOZATO/insights-playground-52)
@@ -49,6 +49,7 @@ O **Insights Playground** é um ecossistema analítico interativo de alta perfor
 * `src/`: Código-fonte da aplicação web interativa e componentes de interface.
 * `public/`: Ativos estáticos e mídias do projeto.
 * `atlas-vendas.csv`: Base de dados transacional estruturada para suporte aos KPIs e relatórios do dashboard.
+* `banner.png`: Imagem principal de destaque (Banner corporativo do projeto).
 
 ---
 
