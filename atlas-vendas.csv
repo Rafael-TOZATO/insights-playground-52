@@ -1,0 +1,1801 @@
+﻿Ano;Mês;Produto;Categoria;Região;Unidades;Vendas USD;Custos USD;Descontos USD;Lucro USD
+2025;Jan;Paseo;Governo;Estados Unidos;318;41121;27798;1491;13323
+2025;Jan;Paseo;Governo;Canadá;396;51207;34616;1857;16591
+2025;Jan;Paseo;Governo;França;474;61293;41434;2223;19859
+2025;Jan;Paseo;Governo;Alemanha;552;71379;48252;2589;23127
+2025;Jan;Paseo;Governo;México;631;81595;55158;2959;26437
+2025;Jan;Paseo;Pequenas empresas;Estados Unidos;220;29772;20394;1468;9378
+2025;Jan;Paseo;Pequenas empresas;Canadá;268;36267;24843;1789;11424
+2025;Jan;Paseo;Pequenas empresas;França;316;42763;29293;2109;13470
+2025;Jan;Paseo;Pequenas empresas;Alemanha;364;49259;33742;2429;15517
+2025;Jan;Paseo;Pequenas empresas;México;202;27336;18725;1348;8611
+2025;Jan;Paseo;Empresas;Estados Unidos;175;24701;17142;1549;7559
+2025;Jan;Paseo;Empresas;Canadá;209;29500;20473;1850;9027
+2025;Jan;Paseo;Empresas;França;243;34299;23804;2151;10495
+2025;Jan;Paseo;Empresas;Alemanha;277;39099;27135;2451;11964
+2025;Jan;Paseo;Empresas;México;162;22866;15869;1434;6997
+2025;Jan;Paseo;Mercado intermediário;Estados Unidos;161;23632;16613;1806;7019
+2025;Jan;Paseo;Mercado intermediário;Canadá;189;27742;19503;2120;8239
+2025;Jan;Paseo;Mercado intermediário;França;218;31998;22495;2446;9503
+2025;Jan;Paseo;Mercado intermediário;Alemanha;122;17907;12589;1369;5318
+2025;Jan;Paseo;Mercado intermediário;México;150;22017;15478;1683;6539
+2025;Jan;Paseo;Parceiros;Estados Unidos;131;19941;14198;1805;5743
+2025;Jan;Paseo;Parceiros;Canadá;151;22986;16366;2080;6620
+2025;Jan;Paseo;Parceiros;França;172;26182;18642;2370;7540
+2025;Jan;Paseo;Parceiros;Alemanha;102;15527;11055;1405;4472
+2025;Jan;Paseo;Parceiros;México;122;18571;13223;1681;5348
+2025;Jan;VTT;Governo;Estados Unidos;281;41488;28751;1505;12737
+2025;Jan;VTT;Governo;Canadá;332;49018;33969;1778;15049
+2025;Jan;VTT;Governo;França;384;56696;39290;2056;17406
+2025;Jan;VTT;Governo;Alemanha;209;30858;21385;1119;9473
+2025;Jan;VTT;Governo;México;261;38535;26705;1398;11830
+2025;Jan;VTT;Pequenas empresas;Estados Unidos;189;28999;20357;1430;8642
+2025;Jan;VTT;Pequenas empresas;Canadá;220;33755;23696;1665;10059
+2025;Jan;VTT;Pequenas empresas;França;252;38665;27143;1907;11522
+2025;Jan;VTT;Pequenas empresas;Alemanha;145;22248;15618;1097;6630
+2025;Jan;VTT;Pequenas empresas;México;177;27158;19065;1339;8093
+2025;Jan;VTT;Empresas;Estados Unidos;146;23218;16508;1456;6710
+2025;Jan;VTT;Empresas;Canadá;169;26876;19109;1685;7767
+2025;Jan;VTT;Empresas;França;93;14790;10516;927;4274
+2025;Jan;VTT;Empresas;Alemanha;115;18288;13003;1147;5285
+2025;Jan;VTT;Empresas;México;138;21946;15604;1376;6342
+2025;Jan;VTT;Mercado intermediário;Estados Unidos;132;21705;15628;1659;6077
+2025;Jan;VTT;Mercado intermediário;Canadá;151;24829;17877;1898;6952
+2025;Jan;VTT;Mercado intermediário;França;88;14470;10418;1106;4052
+2025;Jan;VTT;Mercado intermediário;Alemanha;106;17430;12550;1332;4880
+2025;Jan;VTT;Mercado intermediário;México;125;20554;14799;1571;5755
+2025;Jan;VTT;Parceiros;Estados Unidos;105;17813;12986;1612;4827
+2025;Jan;VTT;Parceiros;Canadá;59;10009;7297;906;2712
+2025;Jan;VTT;Parceiros;França;72;12214;8904;1106;3310
+2025;Jan;VTT;Parceiros;Alemanha;86;14589;10635;1321;3954
+2025;Jan;VTT;Parceiros;México;100;16964;12367;1536;4597
+2025;Jan;Velo;Governo;Estados Unidos;308;51122;36297;1854;14825
+2025;Jan;Velo;Governo;Canadá;353;58591;41600;2125;16991
+2025;Jan;Velo;Governo;França;201;33362;23687;1210;9675
+2025;Jan;Velo;Governo;Alemanha;246;40831;28990;1481;11841
+2025;Jan;Velo;Governo;México;291;48300;34293;1752;14007
+2025;Jan;Velo;Pequenas empresas;Estados Unidos;204;34994;25161;1726;9833
+2025;Jan;Velo;Pequenas empresas;Canadá;231;39626;28491;1954;11135
+2025;Jan;Velo;Pequenas empresas;França;138;23673;17021;1167;6652
+2025;Jan;Velo;Pequenas empresas;Alemanha;165;28304;20351;1396;7953
+2025;Jan;Velo;Pequenas empresas;México;193;33107;23804;1633;9303
+2025;Jan;Velo;Empresas;Estados Unidos;155;27421;19962;1719;7459
+2025;Jan;Velo;Empresas;Canadá;89;15745;11462;987;4283
+2025;Jan;Velo;Empresas;França;108;19106;13909;1198;5197
+2025;Jan;Velo;Empresas;Alemanha;128;22644;16485;1420;6159
+2025;Jan;Velo;Empresas;México;147;26005;18932;1631;7073
+2025;Jan;Velo;Mercado intermediário;Estados Unidos;67;12200;8991;932;3209
+2025;Jan;Velo;Mercado intermediário;Canadá;83;15113;11138;1155;3975
+2025;Jan;Velo;Mercado intermediário;França;99;18026;13285;1378;4741
+2025;Jan;Velo;Mercado intermediário;Alemanha;116;21122;15567;1614;5555
+2025;Jan;Velo;Mercado intermediário;México;132;24035;17714;1837;6321
+2025;Jan;Velo;Parceiros;Estados Unidos;56;10476;7815;948;2661
+2025;Jan;Velo;Parceiros;Canadá;68;12721;9490;1151;3231
+2025;Jan;Velo;Parceiros;França;80;14965;11164;1355;3801
+2025;Jan;Velo;Parceiros;Alemanha;92;17210;12839;1558;4371
+2025;Jan;Velo;Parceiros;México;51;9540;7117;864;2423
+2025;Jan;Amarilla;Governo;Estados Unidos;409;75385;54805;2734;20580
+2025;Jan;Amarilla;Governo;Canadá;240;44236;32160;1604;12076
+2025;Jan;Amarilla;Governo;França;290;53451;38859;1939;14592
+2025;Jan;Amarilla;Governo;Alemanha;340;62667;45559;2273;17108
+2025;Jan;Amarilla;Governo;México;389;71699;52125;2600;19574
+2025;Jan;Amarilla;Pequenas empresas;Estados Unidos;133;25223;18564;1244;6659
+2025;Jan;Amarilla;Pequenas empresas;Canadá;164;31102;22891;1534;8211
+2025;Jan;Amarilla;Pequenas empresas;França;194;36792;27079;1814;9713
+2025;Jan;Amarilla;Pequenas empresas;Alemanha;224;42481;31266;2095;11215
+2025;Jan;Amarilla;Pequenas empresas;México;255;48360;35593;2385;12767
+2025;Jan;Amarilla;Empresas;Estados Unidos;106;20647;15382;1295;5265
+2025;Jan;Amarilla;Empresas;Canadá;128;24933;18575;1563;6358
+2025;Jan;Amarilla;Empresas;França;149;29023;21622;1820;7401
+2025;Jan;Amarilla;Empresas;Alemanha;171;33309;24815;2088;8494
+2025;Jan;Amarilla;Empresas;México;98;19089;14221;1197;4868
+2025;Jan;Amarilla;Mercado intermediário;Estados Unidos;98;19574;14759;1496;4815
+2025;Jan;Amarilla;Mercado intermediário;Canadá;116;23169;17469;1771;5700
+2025;Jan;Amarilla;Mercado intermediário;França;134;26764;20180;2046;6584
+2025;Jan;Amarilla;Mercado intermediário;Alemanha;73;14581;10994;1114;3587
+2025;Jan;Amarilla;Mercado intermediário;México;91;18176;13705;1389;4471
+2025;Jan;Amarilla;Parceiros;Estados Unidos;80;16359;12482;1481;3877
+2025;Jan;Amarilla;Parceiros;Canadá;93;19018;14511;1721;4507
+2025;Jan;Amarilla;Parceiros;França;106;21676;16539;1962;5137
+2025;Jan;Amarilla;Parceiros;Alemanha;62;12678;9673;1148;3005
+2025;Jan;Amarilla;Parceiros;México;75;15337;11702;1388;3635
+2025;Jan;Montana;Governo;Estados Unidos;216;43772;32566;1588;11206
+2025;Jan;Montana;Governo;Canadá;258;52284;38899;1896;13385
+2025;Jan;Montana;Governo;França;299;60592;45080;2198;15512
+2025;Jan;Montana;Governo;Alemanha;341;69104;51413;2506;17691
+2025;Jan;Montana;Governo;México;200;40530;30154;1470;10376
+2025;Jan;Montana;Pequenas empresas;Estados Unidos;146;30332;22840;1496;7492
+2025;Jan;Montana;Pequenas empresas;Canadá;171;35526;26751;1752;8775
+2025;Jan;Montana;Pequenas empresas;França;197;40928;30819;2018;10109
+2025;Jan;Montana;Pequenas empresas;Alemanha;111;23061;17365;1137;5696
+2025;Jan;Montana;Pequenas empresas;México;136;28255;21276;1393;6979
+2025;Jan;Montana;Empresas;Estados Unidos;113;24031;18312;1507;5719
+2025;Jan;Montana;Empresas;Canadá;131;27859;21229;1747;6630
+2025;Jan;Montana;Empresas;França;149;31687;24145;1987;7542
+2025;Jan;Montana;Empresas;Alemanha;89;18927;14422;1187;4505
+2025;Jan;Montana;Empresas;México;106;22543;17178;1413;5365
+2025;Jan;Montana;Mercado intermediário;Estados Unidos;103;22391;17263;1711;5128
+2025;Jan;Montana;Mercado intermediário;Canadá;118;25652;19778;1960;5874
+2025;Jan;Montana;Mercado intermediário;França;67;14565;11230;1113;3335
+2025;Jan;Montana;Mercado intermediário;Alemanha;82;17826;13744;1362;4082
+2025;Jan;Montana;Mercado intermediário;México;97;21086;16257;1612;4829
+2025;Jan;Montana;Parceiros;Estados Unidos;82;18197;14194;1647;4003
+2025;Jan;Montana;Parceiros;Canadá;93;20638;16098;1868;4540
+2025;Jan;Montana;Parceiros;França;56;12427;9693;1125;2734
+2025;Jan;Montana;Parceiros;Alemanha;67;14868;11597;1346;3271
+2025;Jan;Montana;Parceiros;México;78;17309;13501;1567;3808
+2025;Jan;Carretera;Governo;Estados Unidos;237;52373;39856;1900;12517
+2025;Jan;Carretera;Governo;Canadá;273;60329;45910;2188;14419
+2025;Jan;Carretera;Governo;França;152;33590;25562;1218;8028
+2025;Jan;Carretera;Governo;Alemanha;188;41545;31616;1507;9929
+2025;Jan;Carretera;Governo;México;223;49280;37502;1787;11778
+2025;Jan;Carretera;Pequenas empresas;Estados Unidos;157;35460;27304;1749;8156
+2025;Jan;Carretera;Pequenas empresas;Canadá;179;40429;31130;1994;9299
+2025;Jan;Carretera;Pequenas empresas;França;105;23715;18261;1170;5454
+2025;Jan;Carretera;Pequenas empresas;Alemanha;127;28684;22087;1415;6597
+2025;Jan;Carretera;Pequenas empresas;México;149;33653;25913;1660;7740
+2025;Jan;Carretera;Empresas;Estados Unidos;120;27665;21551;1735;6114
+2025;Jan;Carretera;Empresas;Canadá;67;15447;12033;968;3414
+2025;Jan;Carretera;Empresas;França;83;19135;14906;1200;4229
+2025;Jan;Carretera;Empresas;Alemanha;98;22593;17600;1417;4993
+2025;Jan;Carretera;Empresas;México;114;26282;20474;1648;5808
+2025;Jan;Carretera;Mercado intermediário;Estados Unidos;107;25149;19817;1922;5332
+2025;Jan;Carretera;Mercado intermediário;Canadá;63;14807;11668;1132;3139
+2025;Jan;Carretera;Mercado intermediário;França;76;17863;14076;1365;3787
+2025;Jan;Carretera;Mercado intermediário;Alemanha;89;20918;16483;1599;4435
+2025;Jan;Carretera;Mercado intermediário;México;102;23974;18892;1832;5082
+2025;Jan;Carretera;Parceiros;Estados Unidos;42;10052;8011;910;2041
+2025;Jan;Carretera;Parceiros;Canadá;52;12446;9919;1126;2527
+2025;Jan;Carretera;Parceiros;França;61;14600;11636;1321;2964
+2025;Jan;Carretera;Parceiros;Alemanha;71;16993;13543;1538;3450
+2025;Jan;Carretera;Parceiros;México;81;19386;15451;1755;3935
+2025;Fev;Paseo;Governo;Estados Unidos;440;56896;38462;2064;18434
+2025;Fev;Paseo;Governo;Canadá;528;68276;46155;2476;22121
+2025;Fev;Paseo;Governo;França;616;79655;53847;2889;25808
+2025;Fev;Paseo;Governo;Alemanha;704;91034;61539;3302;29495
+2025;Fev;Paseo;Governo;México;406;52500;35490;1904;17010
+2025;Fev;Paseo;Pequenas empresas;Estados Unidos;298;40327;27624;1989;12703
+2025;Fev;Paseo;Pequenas empresas;Canadá;352;47635;32630;2349;15005
+2025;Fev;Paseo;Pequenas empresas;França;406;54942;37635;2710;17307
+2025;Fev;Paseo;Pequenas empresas;Alemanha;224;30313;20764;1495;9549
+2025;Fev;Paseo;Pequenas empresas;México;277;37485;25677;1849;11808
+2025;Fev;Paseo;Empresas;Estados Unidos;232;32747;22726;2053;10021
+2025;Fev;Paseo;Empresas;Canadá;271;38252;26547;2398;11705
+2025;Fev;Paseo;Empresas;França;309;43615;30269;2735;13346
+2025;Fev;Paseo;Empresas;Alemanha;180;25407;17632;1593;7775
+2025;Fev;Paseo;Empresas;México;218;30771;21355;1929;9416
+2025;Fev;Paseo;Mercado intermediário;Estados Unidos;211;30971;21773;2367;9198
+2025;Fev;Paseo;Mercado intermediário;Canadá;243;35668;25075;2726;10593
+2025;Fev;Paseo;Mercado intermediário;França;135;19816;13931;1514;5885
+2025;Fev;Paseo;Mercado intermediário;Alemanha;167;24513;17233;1873;7280
+2025;Fev;Paseo;Mercado intermediário;México;199;29210;20535;2232;8675
+2025;Fev;Paseo;Parceiros;Estados Unidos;169;25726;18317;2328;7409
+2025;Fev;Paseo;Parceiros;Canadá;192;29227;20810;2645;8417
+2025;Fev;Paseo;Parceiros;França;113;17201;12247;1557;4954
+2025;Fev;Paseo;Parceiros;Alemanha;136;20702;14740;1874;5962
+2025;Fev;Paseo;Parceiros;México;160;24356;17341;2204;7015
+2025;Fev;VTT;Governo;Estados Unidos;370;54629;37858;1981;16771
+2025;Fev;VTT;Governo;Canadá;428;63192;43792;2292;19400
+2025;Fev;VTT;Governo;França;486;71755;49726;2603;22029
+2025;Fev;VTT;Governo;Alemanha;290;42817;29672;1553;13145
+2025;Fev;VTT;Governo;México;348;51380;35606;1864;15774
+2025;Fev;VTT;Pequenas empresas;Estados Unidos;246;37745;26497;1861;11248
+2025;Fev;VTT;Pequenas empresas;Canadá;281;43115;30267;2126;12848
+2025;Fev;VTT;Pequenas empresas;França;161;24703;17342;1218;7361
+2025;Fev;VTT;Pequenas empresas;Alemanha;197;30226;21219;1491;9007
+2025;Fev;VTT;Pequenas empresas;México;232;35596;24988;1756;10608
+2025;Fev;VTT;Empresas;Estados Unidos;188;29897;21257;1875;8640
+2025;Fev;VTT;Empresas;Canadá;103;16380;11646;1027;4734
+2025;Fev;VTT;Empresas;França;128;20356;14473;1276;5883
+2025;Fev;VTT;Empresas;Alemanha;153;24331;17299;1526;7032
+2025;Fev;VTT;Empresas;México;178;28307;20126;1775;8181
+2025;Fev;VTT;Mercado intermediário;Estados Unidos;168;27625;19890;2111;7735
+2025;Fev;VTT;Mercado intermediário;Canadá;97;15950;11484;1219;4466
+2025;Fev;VTT;Mercado intermediário;França;118;19403;13970;1483;5433
+2025;Fev;VTT;Mercado intermediário;Alemanha;139;22856;16456;1747;6400
+2025;Fev;VTT;Mercado intermediário;México;160;26309;18942;2011;7367
+2025;Fev;VTT;Parceiros;Estados Unidos;65;11027;8039;998;2988
+2025;Fev;VTT;Parceiros;Canadá;80;13572;9894;1228;3678
+2025;Fev;VTT;Parceiros;França;96;16286;11872;1474;4414
+2025;Fev;VTT;Parceiros;Alemanha;111;18831;13728;1704;5103
+2025;Fev;VTT;Parceiros;México;127;21545;15706;1950;5839
+2025;Fev;Velo;Governo;Estados Unidos;394;65396;46431;2372;18965
+2025;Fev;Velo;Governo;Canadá;222;36848;26162;1336;10686
+2025;Fev;Velo;Governo;França;273;45313;32172;1643;13141
+2025;Fev;Velo;Governo;Alemanha;324;53778;38182;1950;15596
+2025;Fev;Velo;Governo;México;375;62242;44192;2258;18050
+2025;Fev;Velo;Pequenas empresas;Estados Unidos;258;44257;31821;2183;12436
+2025;Fev;Velo;Pequenas empresas;Canadá;153;26246;18871;1294;7375
+2025;Fev;Velo;Pequenas empresas;França;184;31563;22694;1557;8869
+2025;Fev;Velo;Pequenas empresas;Alemanha;215;36881;26517;1819;10364
+2025;Fev;Velo;Pequenas empresas;México;246;42199;30341;2081;11858
+2025;Fev;Velo;Empresas;Estados Unidos;99;17514;12750;1098;4764
+2025;Fev;Velo;Empresas;Canadá;121;21406;15584;1342;5822
+2025;Fev;Velo;Empresas;França;142;25121;18288;1575;6833
+2025;Fev;Velo;Empresas;Alemanha;164;29013;21121;1819;7892
+2025;Fev;Velo;Empresas;México;90;15922;11591;998;4331
+2025;Fev;Velo;Mercado intermediário;Estados Unidos;92;16752;12346;1280;4406
+2025;Fev;Velo;Mercado intermediário;Canadá;110;20029;14761;1531;5268
+2025;Fev;Velo;Mercado intermediário;França;129;23489;17311;1795;6178
+2025;Fev;Velo;Mercado intermediário;Alemanha;147;26766;19727;2046;7039
+2025;Fev;Velo;Mercado intermediário;México;85;15477;11407;1183;4070
+2025;Fev;Velo;Parceiros;Estados Unidos;75;14030;10466;1270;3564
+2025;Fev;Velo;Parceiros;Canadá;89;16649;12420;1507;4229
+2025;Fev;Velo;Parceiros;França;103;19268;14374;1744;4894
+2025;Fev;Velo;Parceiros;Alemanha;57;10663;7955;965;2708
+2025;Fev;Velo;Parceiros;México;70;13095;9769;1185;3326
+2025;Fev;Amarilla;Governo;Estados Unidos;267;49212;35777;1785;13435
+2025;Fev;Amarilla;Governo;Canadá;323;59534;43281;2159;16253
+2025;Fev;Amarilla;Governo;França;379;69855;50785;2534;19070
+2025;Fev;Amarilla;Governo;Alemanha;435;80177;58289;2908;21888
+2025;Fev;Amarilla;Governo;México;245;45157;32829;1638;12328
+2025;Fev;Amarilla;Pequenas empresas;Estados Unidos;182;34516;25404;1702;9112
+2025;Fev;Amarilla;Pequenas empresas;Canadá;216;40964;30150;2020;10814
+2025;Fev;Amarilla;Pequenas empresas;França;250;47412;34895;2338;12517
+2025;Fev;Amarilla;Pequenas empresas;Alemanha;284;53860;39641;2656;14219
+2025;Fev;Amarilla;Pequenas empresas;México;169;32050;23589;1581;8461
+2025;Fev;Amarilla;Empresas;Estados Unidos;142;27660;20607;1734;7053
+2025;Fev;Amarilla;Empresas;Canadá;166;32335;24090;2027;8245
+2025;Fev;Amarilla;Empresas;França;191;37204;27717;2333;9487
+2025;Fev;Amarilla;Empresas;Alemanha;109;21232;15818;1331;5414
+2025;Fev;Amarilla;Empresas;México;133;25907;19301;1624;6606
+2025;Fev;Amarilla;Mercado intermediário;Estados Unidos;130;25966;19578;1984;6388
+2025;Fev;Amarilla;Mercado intermediário;Canadá;150;29960;22590;2290;7370
+2025;Fev;Amarilla;Mercado intermediário;França;170;33955;25602;2595;8353
+2025;Fev;Amarilla;Mercado intermediário;Alemanha;102;20373;15361;1557;5012
+2025;Fev;Amarilla;Mercado intermediário;México;122;24368;18373;1862;5995
+2025;Fev;Amarilla;Parceiros;Estados Unidos;104;21267;16227;1925;5040
+2025;Fev;Amarilla;Parceiros;Canadá;119;24334;18567;2203;5767
+2025;Fev;Amarilla;Parceiros;França;68;13905;10610;1259;3295
+2025;Fev;Amarilla;Parceiros;Alemanha;83;16973;12950;1536;4023
+2025;Fev;Amarilla;Parceiros;México;98;20040;15291;1814;4749
+2025;Fev;Montana;Governo;Estados Unidos;287;58161;43272;2109;14889
+2025;Fev;Montana;Governo;Canadá;334;67685;50358;2455;17327
+2025;Fev;Montana;Governo;França;380;77007;57293;2793;19714
+2025;Fev;Montana;Governo;Alemanha;222;44988;33471;1632;11517
+2025;Fev;Montana;Governo;México;269;54513;40558;1977;13955
+2025;Fev;Montana;Pequenas empresas;Estados Unidos;191;39681;29880;1957;9801
+2025;Fev;Montana;Pequenas empresas;Canadá;219;45498;34260;2244;11238
+2025;Fev;Montana;Pequenas empresas;França;123;25554;19242;1260;6312
+2025;Fev;Montana;Pequenas empresas;Alemanha;151;31371;23622;1547;7749
+2025;Fev;Montana;Pequenas empresas;México;180;37396;28159;1844;9237
+2025;Fev;Montana;Empresas;Estados Unidos;146;31049;23659;1947;7390
+2025;Fev;Montana;Empresas;Canadá;167;35515;27062;2227;8453
+2025;Fev;Montana;Empresas;França;98;20841;15881;1307;4960
+2025;Fev;Montana;Empresas;Alemanha;118;25095;19122;1573;5973
+2025;Fev;Montana;Empresas;México;139;29561;22525;1853;7036
+2025;Fev;Montana;Mercado intermediário;Estados Unidos;131;28478;21957;2176;6521
+2025;Fev;Montana;Mercado intermediário;Canadá;74;16087;12403;1229;3684
+2025;Fev;Montana;Mercado intermediário;França;91;19782;15252;1512;4530
+2025;Fev;Montana;Mercado intermediário;Alemanha;108;23478;18102;1794;5376
+2025;Fev;Montana;Mercado intermediário;México;125;27173;20950;2077;6223
+2025;Fev;Montana;Parceiros;Estados Unidos;104;23079;18002;2089;5077
+2025;Fev;Montana;Parceiros;Canadá;62;13759;10732;1245;3027
+2025;Fev;Montana;Parceiros;França;74;16422;12809;1486;3613
+2025;Fev;Montana;Parceiros;Alemanha;87;19307;15059;1747;4248
+2025;Fev;Montana;Parceiros;México;99;21969;17136;1989;4833
+2025;Fev;Carretera;Governo;Estados Unidos;305;67400;51291;2445;16109
+2025;Fev;Carretera;Governo;Canadá;168;37125;28252;1347;8873
+2025;Fev;Carretera;Governo;França;208;45965;34979;1667;10986
+2025;Fev;Carretera;Governo;Alemanha;249;55025;41874;1996;13151
+2025;Fev;Carretera;Governo;México;289;63865;48601;2316;15264
+2025;Fev;Carretera;Pequenas empresas;Estados Unidos;200;45172;34782;2228;10390
+2025;Fev;Carretera;Pequenas empresas;Canadá;116;26200;20174;1292;6026
+2025;Fev;Carretera;Pequenas empresas;França;141;31846;24521;1571;7325
+2025;Fev;Carretera;Pequenas empresas;Alemanha;166;37493;28870;1849;8623
+2025;Fev;Carretera;Pequenas empresas;México;190;42914;33044;2116;9870
+2025;Fev;Carretera;Empresas;Estados Unidos;74;17060;13290;1070;3770
+2025;Fev;Carretera;Empresas;Canadá;92;21210;16523;1330;4687
+2025;Fev;Carretera;Empresas;França;109;25129;19575;1576;5554
+2025;Fev;Carretera;Empresas;Alemanha;127;29279;22808;1836;6471
+2025;Fev;Carretera;Empresas;México;144;33198;25861;2082;7337
+2025;Fev;Carretera;Mercado intermediário;Estados Unidos;70;16453;12965;1257;3488
+2025;Fev;Carretera;Mercado intermediário;Canadá;85;19978;15743;1527;4235
+2025;Fev;Carretera;Mercado intermediário;França;99;23269;18336;1778;4933
+2025;Fev;Carretera;Mercado intermediário;Alemanha;114;26794;21114;2048;5680
+2025;Fev;Carretera;Mercado intermediário;México;64;15042;11853;1150;3189
+2025;Fev;Carretera;Parceiros;Estados Unidos;58;13882;11064;1256;2818
+2025;Fev;Carretera;Parceiros;Canadá;68;16275;12971;1473;3304
+2025;Fev;Carretera;Parceiros;França;79;18908;15070;1711;3838
+2025;Fev;Carretera;Parceiros;Alemanha;90;21540;17167;1950;4373
+2025;Fev;Carretera;Parceiros;México;53;12685;10110;1148;2575
+2025;Mar;Paseo;Governo;Estados Unidos;587;75905;51312;2753;24593
+2025;Mar;Paseo;Governo;Canadá;685;88577;59878;3213;28699
+2025;Mar;Paseo;Governo;França;784;101379;68532;3677;32847
+2025;Mar;Paseo;Governo;Alemanha;450;58189;39336;2111;18853
+2025;Mar;Paseo;Governo;México;548;70862;47903;2570;22959
+2025;Mar;Paseo;Pequenas empresas;Estados Unidos;392;53048;36338;2616;16710
+2025;Mar;Paseo;Pequenas empresas;Canadá;452;61167;41899;3017;19268
+2025;Mar;Paseo;Pequenas empresas;França;247;33426;22897;1648;10529
+2025;Mar;Paseo;Pequenas empresas;Alemanha;308;41680;28551;2056;13129
+2025;Mar;Paseo;Pequenas empresas;México;368;49800;34113;2456;15687
+2025;Mar;Paseo;Empresas;Estados Unidos;301;42486;29485;2664;13001
+2025;Mar;Paseo;Empresas;Canadá;344;48556;33698;3044;14858
+2025;Mar;Paseo;Empresas;França;199;28089;19494;1761;8595
+2025;Mar;Paseo;Empresas;Alemanha;242;34158;23706;2142;10452
+2025;Mar;Paseo;Empresas;México;285;40228;27918;2522;12310
+2025;Mar;Paseo;Mercado intermediário;Estados Unidos;271;39778;27964;3040;11814
+2025;Mar;Paseo;Mercado intermediário;Canadá;150;22017;15478;1683;6539
+2025;Mar;Paseo;Mercado intermediário;França;185;27155;19090;2075;8065
+2025;Mar;Paseo;Mercado intermediário;Alemanha;221;32439;22805;2479;9634
+2025;Mar;Paseo;Mercado intermediário;México;257;37723;26519;2883;11204
+2025;Mar;Paseo;Parceiros;Estados Unidos;214;32576;23194;2948;9382
+2025;Mar;Paseo;Parceiros;Canadá;125;19028;13548;1722;5480
+2025;Mar;Paseo;Parceiros;França;151;22986;16366;2080;6620
+2025;Mar;Paseo;Parceiros;Alemanha;178;27096;19292;2452;7804
+2025;Mar;Paseo;Parceiros;México;204;31053;22110;2811;8943
+2025;Mar;VTT;Governo;Estados Unidos;477;70427;48806;2554;21621
+2025;Mar;VTT;Governo;Canadá;542;80024;55457;2902;24567
+2025;Mar;VTT;Governo;França;321;47394;32844;1719;14550
+2025;Mar;VTT;Governo;Alemanha;387;57139;39597;2072;17542
+2025;Mar;VTT;Governo;México;452;66736;46248;2420;20488
+2025;Mar;VTT;Pequenas empresas;Estados Unidos;313;48025;33714;2368;14311
+2025;Mar;VTT;Pequenas empresas;Canadá;178;27311;19172;1347;8139
+2025;Mar;VTT;Pequenas empresas;França;218;33448;23480;1650;9968
+2025;Mar;VTT;Pequenas empresas;Alemanha;258;39586;27789;1952;11797
+2025;Mar;VTT;Pequenas empresas;México;298;45723;32098;2255;13625
+2025;Mar;VTT;Empresas;Estados Unidos;238;37849;26911;2373;10938
+2025;Mar;VTT;Empresas;Canadá;142;22582;16056;1416;6526
+2025;Mar;VTT;Empresas;França;170;27035;19222;1695;7813
+2025;Mar;VTT;Empresas;Alemanha;198;31488;22388;1974;9100
+2025;Mar;VTT;Empresas;México;227;36100;25667;2263;10433
+2025;Mar;VTT;Mercado intermediário;Estados Unidos;108;17759;12786;1357;4973
+2025;Mar;VTT;Mercado intermediário;Canadá;131;21541;15510;1646;6031
+2025;Mar;VTT;Mercado intermediário;França;155;25487;18351;1948;7136
+2025;Mar;VTT;Mercado intermediário;Alemanha;178;29269;21074;2237;8195
+2025;Mar;VTT;Mercado intermediário;México;99;16279;11721;1244;4558
+2025;Mar;VTT;Parceiros;Estados Unidos;89;15098;11006;1367;4092
+2025;Mar;VTT;Parceiros;Canadá;106;17982;13109;1628;4873
+2025;Mar;VTT;Parceiros;França;124;21036;15335;1904;5701
+2025;Mar;VTT;Parceiros;Alemanha;141;23920;17438;2165;6482
+2025;Mar;VTT;Parceiros;México;82;13911;10141;1259;3770
+2025;Mar;Velo;Governo;Estados Unidos;246;40831;28990;1481;11841
+2025;Mar;Velo;Governo;Canadá;303;50292;35707;1824;14585
+2025;Mar;Velo;Governo;França;360;59753;42425;2167;17328
+2025;Mar;Velo;Governo;Alemanha;417;69214;49142;2510;20072
+2025;Mar;Velo;Governo;México;474;78675;55859;2853;22816
+2025;Mar;Velo;Pequenas empresas;Estados Unidos;170;29162;20967;1438;8195
+2025;Mar;Velo;Pequenas empresas;Canadá;204;34994;25161;1726;9833
+2025;Mar;Velo;Pequenas empresas;França;239;40998;29478;2022;11520
+2025;Mar;Velo;Pequenas empresas;Alemanha;274;47002;33794;2318;13208
+2025;Mar;Velo;Pequenas empresas;México;156;26760;19240;1320;7520
+2025;Mar;Velo;Empresas;Estados Unidos;134;23706;17258;1486;6448
+2025;Mar;Velo;Empresas;Canadá;158;27951;20348;1753;7603
+2025;Mar;Velo;Empresas;França;183;32374;23568;2030;8806
+2025;Mar;Velo;Empresas;Alemanha;208;36797;26788;2307;10009
+2025;Mar;Velo;Empresas;México;124;21937;15970;1375;5967
+2025;Mar;Velo;Mercado intermediário;Estados Unidos;123;22396;16506;1712;5890
+2025;Mar;Velo;Mercado intermediário;Canadá;143;26038;19190;1990;6848
+2025;Mar;Velo;Mercado intermediário;França;164;29862;22008;2282;7854
+2025;Mar;Velo;Mercado intermediário;Alemanha;94;17116;12614;1308;4502
+2025;Mar;Velo;Mercado intermediário;México;115;20940;15433;1600;5507
+2025;Mar;Velo;Parceiros;Estados Unidos;99;18520;13816;1676;4704
+2025;Mar;Velo;Parceiros;Canadá;114;21326;15909;1930;5417
+2025;Mar;Velo;Parceiros;França;63;11785;8792;1067;2993
+2025;Mar;Velo;Parceiros;Alemanha;78;14591;10885;1321;3706
+2025;Mar;Velo;Parceiros;México;93;17397;12978;1575;4419
+2025;Mar;Amarilla;Governo;Estados Unidos;359;66169;48105;2400;18064
+2025;Mar;Amarilla;Governo;Canadá;421;77597;56413;2814;21184
+2025;Mar;Amarilla;Governo;França;484;89208;64854;3236;24354
+2025;Mar;Amarilla;Governo;Alemanha;271;49949;36313;1812;13636
+2025;Mar;Amarilla;Governo;México;334;61561;44755;2233;16806
+2025;Mar;Amarilla;Pequenas empresas;Estados Unidos;240;45515;33499;2245;12016
+2025;Mar;Amarilla;Pequenas empresas;Canadá;279;52912;38943;2609;13969
+2025;Mar;Amarilla;Pequenas empresas;França;317;60118;44247;2965;15871
+2025;Mar;Amarilla;Pequenas empresas;Alemanha;187;35464;26102;1749;9362
+2025;Mar;Amarilla;Pequenas empresas;México;225;42671;31406;2104;11265
+2025;Mar;Amarilla;Empresas;Estados Unidos;185;36036;26847;2259;9189
+2025;Mar;Amarilla;Empresas;Canadá;212;41295;30765;2589;10530
+2025;Mar;Amarilla;Empresas;França;120;23374;17414;1466;5960
+2025;Mar;Amarilla;Empresas;Alemanha;147;28634;21332;1795;7302
+2025;Mar;Amarilla;Empresas;México;175;34088;25396;2137;8692
+2025;Mar;Amarilla;Mercado intermediário;Estados Unidos;167;33356;25150;2549;8206
+2025;Mar;Amarilla;Mercado intermediário;Canadá;189;37750;28464;2885;9286
+2025;Mar;Amarilla;Mercado intermediário;França;113;22570;17018;1725;5552
+2025;Mar;Amarilla;Mercado intermediário;Alemanha;135;26964;20331;2061;6633
+2025;Mar;Amarilla;Mercado intermediário;México;158;31558;23795;2412;7763
+2025;Mar;Amarilla;Parceiros;Estados Unidos;132;26993;20596;2443;6397
+2025;Mar;Amarilla;Parceiros;Canadá;76;15541;11858;1407;3683
+2025;Mar;Amarilla;Parceiros;França;92;18813;14354;1703;4459
+2025;Mar;Amarilla;Parceiros;Alemanha;109;22290;17007;2017;5283
+2025;Mar;Amarilla;Parceiros;México;126;25766;19659;2332;6107
+2025;Mar;Montana;Governo;Estados Unidos;371;75183;55936;2727;19247
+2025;Mar;Montana;Governo;Canadá;424;85924;63927;3116;21997
+2025;Mar;Montana;Governo;França;246;49852;37090;1808;12762
+2025;Mar;Montana;Governo;Alemanha;299;60592;45080;2198;15512
+2025;Mar;Montana;Governo;México;351;71130;52921;2580;18209
+2025;Mar;Montana;Pequenas empresas;Estados Unidos;244;50692;38171;2500;12521
+2025;Mar;Montana;Pequenas empresas;Canadá;136;28255;21276;1393;6979
+2025;Mar;Montana;Pequenas empresas;França;168;34903;26282;1721;8621
+2025;Mar;Montana;Pequenas empresas;Alemanha;200;41551;31288;2049;10263
+2025;Mar;Montana;Pequenas empresas;México;232;48199;36294;2377;11905
+2025;Mar;Montana;Empresas;Estados Unidos;186;39556;30142;2480;9414
+2025;Mar;Montana;Empresas;Canadá;109;23181;17664;1453;5517
+2025;Mar;Montana;Empresas;França;132;28072;21391;1760;6681
+2025;Mar;Montana;Empresas;Alemanha;154;32751;24956;2053;7795
+2025;Mar;Montana;Empresas;México;177;37642;28683;2360;8959
+2025;Mar;Montana;Mercado intermediário;Estados Unidos;82;17826;13744;1362;4082
+2025;Mar;Montana;Mercado intermediário;Canadá;101;21956;16928;1678;5028
+2025;Mar;Montana;Mercado intermediário;França;120;26086;20112;1994;5974
+2025;Mar;Montana;Mercado intermediário;Alemanha;139;30217;23297;2309;6920
+2025;Mar;Montana;Mercado intermediário;México;158;34347;26482;2625;7865
+2025;Mar;Montana;Parceiros;Estados Unidos;68;15090;11770;1366;3320
+2025;Mar;Montana;Parceiros;Canadá;82;18197;14194;1647;4003
+2025;Mar;Montana;Parceiros;França;96;21304;16617;1928;4687
+2025;Mar;Montana;Parceiros;Alemanha;110;24411;19041;2209;5370
+2025;Mar;Montana;Parceiros;México;63;13981;10905;1265;3076
+2025;Mar;Carretera;Governo;Estados Unidos;186;41103;31279;1491;9824
+2025;Mar;Carretera;Governo;Canadá;231;51048;38848;1851;12200
+2025;Mar;Carretera;Governo;França;276;60992;46415;2212;14577
+2025;Mar;Carretera;Governo;Alemanha;322;71157;54150;2581;17007
+2025;Mar;Carretera;Governo;México;367;81101;61718;2942;19383
+2025;Mar;Carretera;Pequenas empresas;Estados Unidos;129;29136;22435;1437;6701
+2025;Mar;Carretera;Pequenas empresas;Canadá;156;35234;27130;1738;8104
+2025;Mar;Carretera;Pequenas empresas;França;184;41558;32000;2050;9558
+2025;Mar;Carretera;Pequenas empresas;Alemanha;212;47883;36870;2361;11013
+2025;Mar;Carretera;Pequenas empresas;México;118;26652;20522;1314;6130
+2025;Mar;Carretera;Empresas;Estados Unidos;102;23516;18319;1474;5197
+2025;Mar;Carretera;Empresas;Canadá;122;28126;21910;1764;6216
+2025;Mar;Carretera;Empresas;França;141;32507;25323;2038;7184
+2025;Mar;Carretera;Empresas;Alemanha;161;37118;28915;2327;8203
+2025;Mar;Carretera;Empresas;México;94;21671;16882;1359;4789
+2025;Mar;Carretera;Mercado intermediário;Estados Unidos;94;22093;17409;1689;4684
+2025;Mar;Carretera;Mercado intermediário;Canadá;110;25854;20373;1976;5481
+2025;Mar;Carretera;Mercado intermediário;França;127;29850;23522;2281;6328
+2025;Mar;Carretera;Mercado intermediário;Alemanha;71;16688;13150;1275;3538
+2025;Mar;Carretera;Mercado intermediário;México;88;20683;16298;1581;4385
+2025;Mar;Carretera;Parceiros;Estados Unidos;76;18190;14497;1646;3693
+2025;Mar;Carretera;Parceiros;Canadá;88;21062;16786;1906;4276
+2025;Mar;Carretera;Parceiros;França;100;23934;19075;2166;4859
+2025;Mar;Carretera;Parceiros;Alemanha;59;14121;11254;1278;2867
+2025;Mar;Carretera;Parceiros;México;71;16993;13543;1538;3450
+2025;Abr;Paseo;Governo;Estados Unidos;634;81983;55421;2973;26562
+2025;Abr;Paseo;Governo;Canadá;727;94008;63549;3410;30459
+2025;Abr;Paseo;Governo;França;414;53534;36189;1942;17345
+2025;Abr;Paseo;Governo;Alemanha;506;65431;44231;2373;21200
+2025;Abr;Paseo;Governo;México;599;77457;52361;2809;25096
+2025;Abr;Paseo;Pequenas empresas;Estados Unidos;419;56702;38841;2796;17861
+2025;Abr;Paseo;Pequenas empresas;Canadá;475;64280;44032;3170;20248
+2025;Abr;Paseo;Pequenas empresas;França;284;38433;26327;1895;12106
+2025;Abr;Paseo;Pequenas empresas;Alemanha;340;46011;31518;2269;14493
+2025;Abr;Paseo;Pequenas empresas;México;397;53724;36801;2650;16923
+2025;Abr;Paseo;Empresas;Estados Unidos;319;45027;31249;2823;13778
+2025;Abr;Paseo;Empresas;Canadá;183;25830;17926;1620;7904
+2025;Abr;Paseo;Empresas;França;223;31476;21844;1974;9632
+2025;Abr;Paseo;Empresas;Alemanha;263;37122;25763;2328;11359
+2025;Abr;Paseo;Empresas;México;303;42768;29681;2682;13087
+2025;Abr;Paseo;Mercado intermediário;Estados Unidos;138;20256;14240;1548;6016
+2025;Abr;Paseo;Mercado intermediário;Canadá;171;25100;17645;1918;7455
+2025;Abr;Paseo;Mercado intermediário;França;204;29944;21051;2288;8893
+2025;Abr;Paseo;Mercado intermediário;Alemanha;238;34934;24559;2670;10375
+2025;Abr;Paseo;Mercado intermediário;México;271;39778;27964;3040;11814
+2025;Abr;Paseo;Parceiros;Estados Unidos;115;17506;12464;1584;5042
+2025;Abr;Paseo;Parceiros;Canadá;140;21311;15173;1929;6138
+2025;Abr;Paseo;Parceiros;França;164;24964;17774;2260;7190
+2025;Abr;Paseo;Parceiros;Alemanha;189;28770;20484;2604;8286
+2025;Abr;Paseo;Parceiros;México;106;16136;11489;1460;4647
+2025;Abr;VTT;Governo;Estados Unidos;502;74118;51364;2688;22754
+2025;Abr;VTT;Governo;Canadá;296;43703;30286;1585;13417
+2025;Abr;VTT;Governo;França;357;52709;36527;1912;16182
+2025;Abr;VTT;Governo;Alemanha;418;61716;42769;2238;18947
+2025;Abr;VTT;Governo;México;479;70722;49010;2565;21712
+2025;Abr;VTT;Pequenas empresas;Estados Unidos;164;25163;17664;1241;7499
+2025;Abr;VTT;Pequenas empresas;Canadá;201;30840;21650;1521;9190
+2025;Abr;VTT;Pequenas empresas;França;239;36670;25742;1809;10928
+2025;Abr;VTT;Pequenas empresas;Alemanha;276;42348;29728;2088;12620
+2025;Abr;VTT;Pequenas empresas;México;313;48025;33714;2368;14311
+2025;Abr;VTT;Empresas;Estados Unidos;131;20833;14812;1306;6021
+2025;Abr;VTT;Empresas;Canadá;157;24968;17752;1565;7216
+2025;Abr;VTT;Empresas;França;184;29261;20805;1835;8456
+2025;Abr;VTT;Empresas;Alemanha;210;33396;23745;2094;9651
+2025;Abr;VTT;Empresas;México;121;19243;13682;1206;5561
+2025;Abr;VTT;Mercado intermediário;Estados Unidos;121;19896;14325;1521;5571
+2025;Abr;VTT;Mercado intermediário;Canadá;143;23514;16930;1797;6584
+2025;Abr;VTT;Mercado intermediário;França;165;27131;19534;2074;7597
+2025;Abr;VTT;Mercado intermediário;Alemanha;91;14963;10773;1144;4190
+2025;Abr;VTT;Mercado intermediário;México;113;18581;13378;1420;5203
+2025;Abr;VTT;Parceiros;Estados Unidos;98;16625;12120;1505;4505
+2025;Abr;VTT;Parceiros;Canadá;115;19509;14222;1766;5287
+2025;Abr;VTT;Parceiros;França;131;22223;16201;2012;6022
+2025;Abr;VTT;Parceiros;Alemanha;76;12893;9399;1167;3494
+2025;Abr;VTT;Parceiros;México;92;15607;11378;1413;4229
+2025;Abr;Velo;Governo;Estados Unidos;280;46474;32997;1686;13477
+2025;Abr;Velo;Governo;Canadá;333;55271;39242;2005;16029
+2025;Abr;Velo;Governo;França;386;64068;45488;2324;18580
+2025;Abr;Velo;Governo;Alemanha;440;73031;51852;2649;21179
+2025;Abr;Velo;Governo;México;259;42989;30522;1559;12467
+2025;Abr;Velo;Pequenas empresas;Estados Unidos;189;32421;23311;1599;9110
+2025;Abr;Velo;Pequenas empresas;Canadá;221;37910;27257;1870;10653
+2025;Abr;Velo;Pequenas empresas;França;254;43571;31328;2149;12243
+2025;Abr;Velo;Pequenas empresas;Alemanha;144;24702;17761;1218;6941
+2025;Abr;Velo;Pequenas empresas;México;176;30191;21707;1489;8484
+2025;Abr;Velo;Empresas;Estados Unidos;147;26005;18932;1631;7073
+2025;Abr;Velo;Empresas;Canadá;170;30074;21894;1886;8180
+2025;Abr;Velo;Empresas;França;193;34143;24856;2141;9287
+2025;Abr;Velo;Empresas;Alemanha;115;20344;14810;1276;5534
+2025;Abr;Velo;Empresas;México;138;24413;17773;1531;6640
+2025;Abr;Velo;Mercado intermediário;Estados Unidos;133;24217;17848;1851;6369
+2025;Abr;Velo;Mercado intermediário;Canadá;152;27677;20398;2115;7279
+2025;Abr;Velo;Mercado intermediário;França;87;15841;11675;1211;4166
+2025;Abr;Velo;Mercado intermediário;Alemanha;106;19301;14225;1475;5076
+2025;Abr;Velo;Mercado intermediário;México;125;22760;16774;1740;5986
+2025;Abr;Velo;Parceiros;Estados Unidos;106;19829;14792;1795;5037
+2025;Abr;Velo;Parceiros;Canadá;58;10850;8094;982;2756
+2025;Abr;Velo;Parceiros;França;72;13469;10048;1219;3421
+2025;Abr;Velo;Parceiros;Alemanha;86;16088;12002;1456;4086
+2025;Abr;Velo;Parceiros;México;100;18707;13955;1693;4752
+2025;Abr;Amarilla;Governo;Estados Unidos;390;71883;52259;2607;19624
+2025;Abr;Amarilla;Governo;Canadá;448;82573;60031;2995;22542
+2025;Abr;Amarilla;Governo;França;250;46079;33499;1671;12580
+2025;Abr;Amarilla;Governo;Alemanha;308;56769;41271;2059;15498
+2025;Abr;Amarilla;Governo;México;367;67644;49177;2453;18467
+2025;Abr;Amarilla;Pequenas empresas;Estados Unidos;258;48929;36012;2413;12917
+2025;Abr;Amarilla;Pequenas empresas;Canadá;294;55756;41036;2750;14720
+2025;Abr;Amarilla;Pequenas empresas;França;172;32619;24008;1609;8611
+2025;Abr;Amarilla;Pequenas empresas;Alemanha;208;39447;29033;1945;10414
+2025;Abr;Amarilla;Pequenas empresas;México;244;46274;34058;2282;12216
+2025;Abr;Amarilla;Empresas;Estados Unidos;197;38373;28588;2406;9785
+2025;Abr;Amarilla;Empresas;Canadá;111;21621;16108;1356;5513
+2025;Abr;Amarilla;Empresas;França;136;26491;19736;1661;6755
+2025;Abr;Amarilla;Empresas;Alemanha;162;31555;23508;1979;8047
+2025;Abr;Amarilla;Empresas;México;187;36425;27137;2284;9288
+2025;Abr;Amarilla;Mercado intermediário;Estados Unidos;176;35153;26505;2687;8648
+2025;Abr;Amarilla;Mercado intermediário;Canadá;104;20772;15662;1588;5110
+2025;Abr;Amarilla;Mercado intermediário;França;125;24967;18825;1908;6142
+2025;Abr;Amarilla;Mercado intermediário;Alemanha;146;29161;21987;2229;7174
+2025;Abr;Amarilla;Mercado intermediário;México;167;33356;25150;2549;8206
+2025;Abr;Amarilla;Parceiros;Estados Unidos;70;14314;10922;1296;3392
+2025;Abr;Amarilla;Parceiros;Canadá;85;17382;13262;1573;4120
+2025;Abr;Amarilla;Parceiros;França;101;20654;15759;1869;4895
+2025;Abr;Amarilla;Parceiros;Alemanha;117;23925;18255;2166;5670
+2025;Abr;Amarilla;Parceiros;México;64;13087;9985;1185;3102
+2025;Abr;Montana;Governo;Estados Unidos;393;79641;59253;2889;20388
+2025;Abr;Montana;Governo;Canadá;227;46002;34225;1668;11777
+2025;Abr;Montana;Governo;França;276;55931;41613;2029;14318
+2025;Abr;Montana;Governo;Alemanha;325;65861;49001;2389;16860
+2025;Abr;Montana;Governo;México;374;75791;56389;2749;19402
+2025;Abr;Montana;Pequenas empresas;Estados Unidos;125;25969;19555;1281;6414
+2025;Abr;Montana;Pequenas empresas;Canadá;155;32202;24248;1588;7954
+2025;Abr;Montana;Pequenas empresas;França;185;38434;28941;1896;9493
+2025;Abr;Montana;Pequenas empresas;Alemanha;215;44667;33634;2203;11033
+2025;Abr;Montana;Pequenas empresas;México;245;50900;38328;2510;12572
+2025;Abr;Montana;Empresas;Estados Unidos;100;21267;16205;1333;5062
+2025;Abr;Montana;Empresas;Canadá;122;25945;19770;1627;6175
+2025;Abr;Montana;Empresas;França;143;30411;23173;1907;7238
+2025;Abr;Montana;Empresas;Alemanha;164;34877;26576;2187;8301
+2025;Abr;Montana;Empresas;México;92;19565;14909;1227;4656
+2025;Abr;Montana;Mercado intermediário;Estados Unidos;93;20217;15587;1545;4630
+2025;Abr;Montana;Mercado intermediário;Canadá;111;24130;18604;1844;5526
+2025;Abr;Montana;Mercado intermediário;França;129;28043;21621;2143;6422
+2025;Abr;Montana;Mercado intermediário;Alemanha;146;31738;24470;2426;7268
+2025;Abr;Montana;Mercado intermediário;México;87;18913;14582;1445;4331
+2025;Abr;Montana;Parceiros;Estados Unidos;76;16865;13155;1527;3710
+2025;Abr;Montana;Parceiros;Canadá;89;19750;15405;1788;4345
+2025;Abr;Montana;Parceiros;França;102;22635;17655;2049;4980
+2025;Abr;Montana;Parceiros;Alemanha;58;12871;10039;1165;2832
+2025;Abr;Montana;Parceiros;México;71;15756;12290;1426;3466
+2025;Abr;Carretera;Governo;Estados Unidos;213;47070;35820;1707;11250
+2025;Abr;Carretera;Governo;Canadá;256;56572;43051;2052;13521
+2025;Abr;Carretera;Governo;França;298;65854;50115;2388;15739
+2025;Abr;Carretera;Governo;Alemanha;340;75135;57178;2725;17957
+2025;Abr;Carretera;Governo;México;197;43534;33129;1579;10405
+2025;Abr;Carretera;Pequenas empresas;Estados Unidos;144;32524;25043;1604;7481
+2025;Abr;Carretera;Pequenas empresas;Canadá;170;38396;29565;1894;8831
+2025;Abr;Carretera;Pequenas empresas;França;196;44269;34087;2183;10182
+2025;Abr;Carretera;Pequenas empresas;Alemanha;109;24619;18957;1214;5662
+2025;Abr;Carretera;Pequenas empresas;México;134;30265;23304;1493;6961
+2025;Abr;Carretera;Empresas;Estados Unidos;113;26052;20295;1633;5757
+2025;Abr;Carretera;Empresas;Canadá;131;30201;23527;1894;6674
+2025;Abr;Carretera;Empresas;França;149;34351;26759;2154;7592
+2025;Abr;Carretera;Empresas;Alemanha;87;20057;15624;1258;4433
+2025;Abr;Carretera;Empresas;México;105;24207;18857;1518;5350
+2025;Abr;Carretera;Mercado intermediário;Estados Unidos;102;23974;18892;1832;5082
+2025;Abr;Carretera;Mercado intermediário;Canadá;117;27499;21669;2102;5830
+2025;Abr;Carretera;Mercado intermediário;França;66;15512;12223;1186;3289
+2025;Abr;Carretera;Mercado intermediário;Alemanha;81;19038;15002;1455;4036
+2025;Abr;Carretera;Mercado intermediário;México;96;22564;17780;1724;4784
+2025;Abr;Carretera;Parceiros;Estados Unidos;82;19626;15642;1776;3984
+2025;Abr;Carretera;Parceiros;Canadá;93;22258;17740;2015;4518
+2025;Abr;Carretera;Parceiros;França;55;13164;10492;1191;2672
+2025;Abr;Carretera;Parceiros;Alemanha;66;15796;12589;1430;3207
+2025;Abr;Carretera;Parceiros;México;77;18429;14688;1668;3741
+2025;Mai;Paseo;Governo;Estados Unidos;822;106293;71854;3855;34439
+2025;Mai;Paseo;Governo;Canadá;466;60258;40734;2186;19524
+2025;Mai;Paseo;Governo;França;571;73836;49913;2678;23923
+2025;Mai;Paseo;Governo;Alemanha;676;87414;59092;3170;28322
+2025;Mai;Paseo;Governo;México;782;101120;68357;3668;32763
+2025;Mai;Paseo;Pequenas empresas;Estados Unidos;538;72805;49871;3591;22934
+2025;Mai;Paseo;Pequenas empresas;Canadá;320;43304;29663;2136;13641
+2025;Mai;Paseo;Pequenas empresas;França;384;51965;35596;2563;16369
+2025;Mai;Paseo;Pequenas empresas;Alemanha;449;60761;41621;2997;19140
+2025;Mai;Paseo;Pequenas empresas;México;513;69422;47554;3424;21868
+2025;Mai;Paseo;Empresas;Estados Unidos;206;29077;20179;1823;8898
+2025;Mai;Paseo;Empresas;Canadá;252;35570;24686;2230;10884
+2025;Mai;Paseo;Empresas;França;297;41922;29094;2628;12828
+2025;Mai;Paseo;Empresas;Alemanha;343;48414;33599;3036;14815
+2025;Mai;Paseo;Empresas;México;189;26677;18514;1673;8163
+2025;Mai;Paseo;Mercado intermediário;Estados Unidos;193;28329;19915;2165;8414
+2025;Mai;Paseo;Mercado intermediário;Canadá;231;33907;23837;2591;10070
+2025;Mai;Paseo;Mercado intermediário;França;269;39484;27757;3018;11727
+2025;Mai;Paseo;Mercado intermediário;Alemanha;307;45062;31679;3444;13383
+2025;Mai;Paseo;Mercado intermediário;México;178;26127;18367;1997;7760
+2025;Mai;Paseo;Parceiros;Estados Unidos;158;24051;17124;2177;6927
+2025;Mai;Paseo;Parceiros;Canadá;186;28313;20159;2563;8154
+2025;Mai;Paseo;Parceiros;França;214;32576;23194;2948;9382
+2025;Mai;Paseo;Parceiros;Alemanha;119;18114;12897;1640;5217
+2025;Mai;Paseo;Parceiros;México;147;22377;15932;2025;6445
+2025;Mai;VTT;Governo;Estados Unidos;334;49313;34174;1789;15139
+2025;Mai;VTT;Governo;Canadá;403;59501;41234;2158;18267
+2025;Mai;VTT;Governo;França;472;69688;48294;2528;21394
+2025;Mai;VTT;Governo;Alemanha;542;80024;55457;2902;24567
+2025;Mai;VTT;Governo;México;307;45327;31412;1644;13915
+2025;Mai;VTT;Pequenas empresas;Estados Unidos;227;34829;24450;1718;10379
+2025;Mai;VTT;Pequenas empresas;Canadá;270;41427;29082;2043;12345
+2025;Mai;VTT;Pequenas empresas;França;312;47871;33605;2361;14266
+2025;Mai;VTT;Pequenas empresas;Alemanha;354;54315;38129;2679;16186
+2025;Mai;VTT;Pequenas empresas;México;211;32374;22727;1597;9647
+2025;Mai;VTT;Empresas;Estados Unidos;178;28307;20126;1775;8181
+2025;Mai;VTT;Empresas;Canadá;208;33078;23518;2074;9560
+2025;Mai;VTT;Empresas;França;238;37849;26911;2373;10938
+2025;Mai;VTT;Empresas;Alemanha;136;21628;15378;1356;6250
+2025;Mai;VTT;Empresas;México;166;26399;18770;1655;7629
+2025;Mai;VTT;Mercado intermediário;Estados Unidos;162;26638;19179;2036;7459
+2025;Mai;VTT;Mercado intermediário;Canadá;187;30749;22139;2350;8610
+2025;Mai;VTT;Mercado intermediário;França;102;16772;12076;1282;4696
+2025;Mai;VTT;Mercado intermediário;Alemanha;127;20883;15036;1596;5847
+2025;Mai;VTT;Mercado intermediário;México;152;24994;17996;1910;6998
+2025;Mai;VTT;Parceiros;Estados Unidos;130;22054;16077;1996;5977
+2025;Mai;VTT;Parceiros;Canadá;148;25107;18303;2273;6804
+2025;Mai;VTT;Parceiros;França;85;14420;10512;1305;3908
+2025;Mai;VTT;Parceiros;Alemanha;104;17643;12862;1597;4781
+2025;Mai;VTT;Parceiros;México;122;20697;15088;1873;5609
+2025;Mai;Velo;Governo;Estados Unidos;376;62408;44310;2264;18098
+2025;Mai;Velo;Governo;Canadá;437;72533;51498;2631;21035
+2025;Mai;Velo;Governo;França;498;82658;58687;2998;23971
+2025;Mai;Velo;Governo;Alemanha;292;48466;34411;1758;14055
+2025;Mai;Velo;Governo;México;353;58591;41600;2125;16991
+2025;Mai;Velo;Pequenas empresas;Estados Unidos;250;42885;30834;2115;12051
+2025;Mai;Velo;Pequenas empresas;Canadá;287;49232;35398;2428;13834
+2025;Mai;Velo;Pequenas empresas;França;162;27789;19980;1371;7809
+2025;Mai;Velo;Pequenas empresas;Alemanha;199;34136;24544;1684;9592
+2025;Mai;Velo;Pequenas empresas;México;236;40483;29107;1997;11376
+2025;Mai;Velo;Empresas;Estados Unidos;192;33966;24727;2130;9239
+2025;Mai;Velo;Empresas;Canadá;218;38566;28076;2418;10490
+2025;Mai;Velo;Empresas;França;129;22821;16614;1431;6207
+2025;Mai;Velo;Empresas;Alemanha;155;27421;19962;1719;7459
+2025;Mai;Velo;Empresas;México;182;32197;23439;2019;8758
+2025;Mai;Velo;Mercado intermediário;Estados Unidos;172;31318;23081;2394;8237
+2025;Mai;Velo;Mercado intermediário;Canadá;98;17844;13151;1364;4693
+2025;Mai;Velo;Mercado intermediário;França;120;21850;16103;1670;5747
+2025;Mai;Velo;Mercado intermediário;Alemanha;141;25674;18922;1962;6752
+2025;Mai;Velo;Mercado intermediário;México;163;29680;21874;2268;7806
+2025;Mai;Velo;Parceiros;Estados Unidos;136;25441;18979;2303;6462
+2025;Mai;Velo;Parceiros;Canadá;81;15153;11304;1371;3849
+2025;Mai;Velo;Parceiros;França;97;18146;13537;1642;4609
+2025;Mai;Velo;Parceiros;Alemanha;113;21139;15770;1913;5369
+2025;Mai;Velo;Parceiros;México;130;24319;18142;2201;6177
+2025;Mai;Amarilla;Governo;Estados Unidos;507;93448;67937;3389;25511
+2025;Mai;Amarilla;Governo;Canadá;281;51793;37654;1878;14139
+2025;Mai;Amarilla;Governo;França;348;64142;46631;2326;17511
+2025;Mai;Amarilla;Governo;Alemanha;415;76491;55609;2774;20882
+2025;Mai;Amarilla;Governo;México;481;88656;64453;3215;24203
+2025;Mai;Amarilla;Pequenas empresas;Estados Unidos;333;63152;46480;3115;16672
+2025;Mai;Amarilla;Pequenas empresas;Canadá;194;36792;27079;1814;9713
+2025;Mai;Amarilla;Pequenas empresas;França;235;44567;32801;2198;11766
+2025;Mai;Amarilla;Pequenas empresas;Alemanha;276;52343;38524;2581;13819
+2025;Mai;Amarilla;Pequenas empresas;México;317;60118;44247;2965;15871
+2025;Mai;Amarilla;Empresas;Estados Unidos;124;24154;17995;1514;6159
+2025;Mai;Amarilla;Empresas;Canadá;153;29802;22202;1869;7600
+2025;Mai;Amarilla;Empresas;França;182;35451;26411;2223;9040
+2025;Mai;Amarilla;Empresas;Alemanha;211;41100;30620;2577;10480
+2025;Mai;Amarilla;Empresas;México;240;46749;34828;2931;11921
+2025;Mai;Amarilla;Mercado intermediário;Estados Unidos;117;23369;17620;1786;5749
+2025;Mai;Amarilla;Mercado intermediário;Canadá;141;28163;21235;2152;6928
+2025;Mai;Amarilla;Mercado intermediário;França;165;32956;24849;2519;8107
+2025;Mai;Amarilla;Mercado intermediário;Alemanha;189;37750;28464;2885;9286
+2025;Mai;Amarilla;Mercado intermediário;México;108;21571;16265;1649;5306
+2025;Mai;Amarilla;Parceiros;Estados Unidos;96;19631;14978;1777;4653
+2025;Mai;Amarilla;Parceiros;Canadá;114;23312;17787;2110;5525
+2025;Mai;Amarilla;Parceiros;França;132;26993;20596;2443;6397
+2025;Mai;Amarilla;Parceiros;Alemanha;150;30674;23404;2776;7270
+2025;Mai;Amarilla;Parceiros;México;89;18200;13887;1647;4313
+2025;Mai;Montana;Governo;Estados Unidos;255;51676;38447;1874;13229
+2025;Mai;Montana;Governo;Canadá;311;63024;46890;2286;16134
+2025;Mai;Montana;Governo;França;367;74373;55334;2697;19039
+2025;Mai;Montana;Governo;Alemanha;423;85721;63776;3109;21945
+2025;Mai;Montana;Governo;México;234;47420;35280;1720;12140
+2025;Mai;Montana;Pequenas empresas;Estados Unidos;175;36357;27377;1793;8980
+2025;Mai;Montana;Pequenas empresas;Canadá;209;43421;32696;2141;10725
+2025;Mai;Montana;Pequenas empresas;França;243;50484;38014;2490;12470
+2025;Mai;Montana;Pequenas empresas;Alemanha;277;57548;43334;2838;14214
+2025;Mai;Montana;Pequenas empresas;México;162;33656;25343;1660;8313
+2025;Mai;Montana;Empresas;Estados Unidos;137;29135;22201;1827;6934
+2025;Mai;Montana;Empresas;Canadá;161;34239;26090;2147;8149
+2025;Mai;Montana;Empresas;França;186;39556;30142;2480;9414
+2025;Mai;Montana;Empresas;Alemanha;104;22117;16853;1387;5264
+2025;Mai;Montana;Empresas;México;128;27221;20742;1707;6479
+2025;Mai;Montana;Mercado intermediário;Estados Unidos;125;27173;20950;2077;6223
+2025;Mai;Montana;Mercado intermediário;Canadá;146;31738;24470;2426;7268
+2025;Mai;Montana;Mercado intermediário;França;166;36086;27822;2758;8264
+2025;Mai;Montana;Mercado intermediário;Alemanha;97;21086;16257;1612;4829
+2025;Mai;Montana;Mercado intermediário;México;118;25652;19778;1960;5874
+2025;Mai;Montana;Parceiros;Estados Unidos;101;22413;17482;2029;4931
+2025;Mai;Montana;Parceiros;Canadá;116;25742;20079;2330;5663
+2025;Mai;Montana;Parceiros;França;65;14424;11251;1306;3173
+2025;Mai;Montana;Parceiros;Alemanha;80;17753;13847;1607;3906
+2025;Mai;Montana;Parceiros;México;95;21082;16444;1908;4638
+2025;Mai;Carretera;Governo;Estados Unidos;288;63644;48433;2308;15211
+2025;Mai;Carretera;Governo;Canadá;337;74472;56673;2701;17799
+2025;Mai;Carretera;Governo;França;385;85079;64745;3086;20334
+2025;Mai;Carretera;Governo;Alemanha;221;48838;37166;1771;11672
+2025;Mai;Carretera;Governo;México;270;59666;45406;2164;14260
+2025;Mai;Carretera;Pequenas empresas;Estados Unidos;192;43365;33391;2139;9974
+2025;Mai;Carretera;Pequenas empresas;Canadá;222;50141;38609;2473;11532
+2025;Mai;Carretera;Pequenas empresas;França;122;27555;21217;1359;6338
+2025;Mai;Carretera;Pequenas empresas;Alemanha;152;34331;26435;1693;7896
+2025;Mai;Carretera;Pequenas empresas;México;181;40881;31478;2016;9403
+2025;Mai;Carretera;Empresas;Estados Unidos;148;34121;26580;2139;7541
+2025;Mai;Carretera;Empresas;Canadá;169;38962;30351;2443;8611
+2025;Mai;Carretera;Empresas;França;98;22593;17600;1417;4993
+2025;Mai;Carretera;Empresas;Alemanha;119;27435;21372;1720;6063
+2025;Mai;Carretera;Empresas;México;140;32276;25143;2024;7133
+2025;Mai;Carretera;Mercado intermediário;Estados Unidos;133;31260;24633;2389;6627
+2025;Mai;Carretera;Mercado intermediário;Canadá;74;17393;13706;1329;3687
+2025;Mai;Carretera;Mercado intermediário;França;91;21388;16854;1635;4534
+2025;Mai;Carretera;Mercado intermediário;Alemanha;109;25619;20188;1958;5431
+2025;Mai;Carretera;Mercado intermediário;México;126;29615;23337;2263;6278
+2025;Mai;Carretera;Parceiros;Estados Unidos;105;25130;20029;2275;5101
+2025;Mai;Carretera;Parceiros;Canadá;62;14839;11827;1343;3012
+2025;Mai;Carretera;Parceiros;França;74;17711;14116;1603;3595
+2025;Mai;Carretera;Parceiros;Alemanha;87;20822;16595;1885;4227
+2025;Mai;Carretera;Parceiros;México;100;23934;19075;2166;4859
+2025;Jun;Paseo;Governo;Estados Unidos;516;66724;45105;2420;21619
+2025;Jun;Paseo;Governo;Canadá;634;81983;55421;2973;26562
+2025;Jun;Paseo;Governo;França;752;97241;65735;3527;31506
+2025;Jun;Paseo;Governo;Alemanha;871;112629;76137;4085;36492
+2025;Jun;Paseo;Governo;México;989;127888;86452;4638;41436
+2025;Jun;Paseo;Pequenas empresas;Estados Unidos;355;48041;32908;2369;15133
+2025;Jun;Paseo;Pequenas empresas;Canadá;427;57784;39582;2850;18202
+2025;Jun;Paseo;Pequenas empresas;França;499;67528;46257;3330;21271
+2025;Jun;Paseo;Pequenas empresas;Alemanha;572;77406;53023;3818;24383
+2025;Jun;Paseo;Pequenas empresas;México;327;44252;30313;2182;13939
+2025;Jun;Paseo;Empresas;Estados Unidos;280;39522;27428;2478;12094
+2025;Jun;Paseo;Empresas;Canadá;331;46721;32424;2929;14297
+2025;Jun;Paseo;Empresas;França;382;53919;37420;3381;16499
+2025;Jun;Paseo;Empresas;Alemanha;209;29500;20473;1850;9027
+2025;Jun;Paseo;Empresas;México;260;36699;25469;2301;11230
+2025;Jun;Paseo;Mercado intermediário;Estados Unidos;257;37723;26519;2883;11204
+2025;Jun;Paseo;Mercado intermediário;Canadá;299;43888;30853;3354;13035
+2025;Jun;Paseo;Mercado intermediário;França;342;50199;35290;3837;14909
+2025;Jun;Paseo;Mercado intermediário;Alemanha;197;28916;20328;2210;8588
+2025;Jun;Paseo;Mercado intermediário;México;240;35228;24765;2692;10463
+2025;Jun;Paseo;Parceiros;Estados Unidos;207;31510;22435;2852;9075
+2025;Jun;Paseo;Parceiros;Canadá;238;36229;25795;3279;10434
+2025;Jun;Paseo;Parceiros;França;131;19941;14198;1805;5743
+2025;Jun;Paseo;Parceiros;Alemanha;163;24812;17666;2246;7146
+2025;Jun;Paseo;Parceiros;México;195;29683;21134;2687;8549
+2025;Jun;VTT;Governo;Estados Unidos;448;66145;45838;2399;20307
+2025;Jun;VTT;Governo;Canadá;526;77661;53819;2817;23842
+2025;Jun;VTT;Governo;França;604;89178;61800;3234;27378
+2025;Jun;VTT;Governo;Alemanha;340;50199;34788;1821;15411
+2025;Jun;VTT;Governo;México;418;61716;42769;2238;18947
+2025;Jun;VTT;Pequenas empresas;Estados Unidos;300;46030;32313;2270;13717
+2025;Jun;VTT;Pequenas empresas;Canadá;347;53241;37375;2626;15866
+2025;Jun;VTT;Pequenas empresas;França;395;60606;42545;2989;18061
+2025;Jun;VTT;Pequenas empresas;Alemanha;234;35903;25204;1771;10699
+2025;Jun;VTT;Pequenas empresas;México;281;43115;30267;2126;12848
+2025;Jun;VTT;Empresas;Estados Unidos;231;36736;26119;2303;10617
+2025;Jun;VTT;Empresas;Canadá;265;42143;29964;2642;12179
+2025;Jun;VTT;Empresas;França;150;23854;16960;1496;6894
+2025;Jun;VTT;Empresas;Alemanha;184;29261;20805;1835;8456
+2025;Jun;VTT;Empresas;México;218;34668;24649;2174;10019
+2025;Jun;VTT;Mercado intermediário;Estados Unidos;208;34202;24625;2614;9577
+2025;Jun;VTT;Mercado intermediário;Canadá;236;38806;27940;2966;10866
+2025;Jun;VTT;Mercado intermediário;França;141;23185;16693;1772;6492
+2025;Jun;VTT;Mercado intermediário;Alemanha;169;27789;20008;2124;7781
+2025;Jun;VTT;Mercado intermediário;México;197;32393;23323;2476;9070
+2025;Jun;VTT;Parceiros;Estados Unidos;165;27991;20405;2534;7586
+2025;Jun;VTT;Parceiros;Canadá;95;16116;11749;1459;4367
+2025;Jun;VTT;Parceiros;França;115;19509;14222;1766;5287
+2025;Jun;VTT;Parceiros;Alemanha;136;23072;16819;2088;6253
+2025;Jun;VTT;Parceiros;México;157;26634;19416;2411;7218
+2025;Jun;Velo;Governo;Estados Unidos;487;80832;57391;2932;23441
+2025;Jun;Velo;Governo;Canadá;555;92119;65404;3341;26715
+2025;Jun;Velo;Governo;França;324;53778;38182;1950;15596
+2025;Jun;Velo;Governo;Alemanha;392;65064;46195;2360;18869
+2025;Jun;Velo;Governo;México;460;76351;54209;2769;22142
+2025;Jun;Velo;Pequenas empresas;Estados Unidos;320;54893;39468;2707;15425
+2025;Jun;Velo;Pequenas empresas;Canadá;179;30706;22078;1514;8628
+2025;Jun;Velo;Pequenas empresas;França;221;37910;27257;1870;10653
+2025;Jun;Velo;Pequenas empresas;Alemanha;262;44943;32314;2217;12629
+2025;Jun;Velo;Pequenas empresas;México;304;52148;37494;2572;14654
+2025;Jun;Velo;Empresas;Estados Unidos;243;42989;31296;2695;11693
+2025;Jun;Velo;Empresas;Canadá;143;25298;18417;1586;6881
+2025;Jun;Velo;Empresas;França;173;30605;22280;1919;8325
+2025;Jun;Velo;Empresas;Alemanha;202;35735;26015;2241;9720
+2025;Jun;Velo;Empresas;México;232;41043;29879;2573;11164
+2025;Jun;Velo;Mercado intermediário;Estados Unidos;108;19665;14493;1503;5172
+2025;Jun;Velo;Mercado intermediário;Canadá;133;24217;17848;1851;6369
+2025;Jun;Velo;Mercado intermediário;França;157;28587;21069;2185;7518
+2025;Jun;Velo;Mercado intermediário;Alemanha;182;33139;24423;2533;8716
+2025;Jun;Velo;Mercado intermediário;México;207;37691;27778;2881;9913
+2025;Jun;Velo;Parceiros;Estados Unidos;90;16836;12560;1524;4276
+2025;Jun;Velo;Parceiros;Canadá;108;20203;15071;1829;5132
+2025;Jun;Velo;Parceiros;França;126;23571;17584;2133;5987
+2025;Jun;Velo;Parceiros;Alemanha;144;26938;20096;2438;6842
+2025;Jun;Velo;Parceiros;México;83;15527;11583;1405;3944
+2025;Jun;Amarilla;Governo;Estados Unidos;311;57322;41673;2079;15649
+2025;Jun;Amarilla;Governo;Canadá;386;71146;51723;2580;19423
+2025;Jun;Amarilla;Governo;França;461;84969;61772;3082;23197
+2025;Jun;Amarilla;Governo;Alemanha;536;98793;71823;3583;26970
+2025;Jun;Amarilla;Governo;México;611;112616;81872;4085;30744
+2025;Jun;Amarilla;Pequenas empresas;Estados Unidos;215;40774;30010;2011;10764
+2025;Jun;Amarilla;Pequenas empresas;Canadá;261;49498;36431;2441;13067
+2025;Jun;Amarilla;Pequenas empresas;França;307;58222;42851;2871;15371
+2025;Jun;Amarilla;Pequenas empresas;Alemanha;353;66945;49272;3302;17673
+2025;Jun;Amarilla;Pequenas empresas;México;197;37360;27497;1843;9863
+2025;Jun;Amarilla;Empresas;Estados Unidos;170;33114;24670;2076;8444
+2025;Jun;Amarilla;Empresas;Canadá;203;39542;29459;2479;10083
+2025;Jun;Amarilla;Empresas;França;236;45970;34248;2882;11722
+2025;Jun;Amarilla;Empresas;Alemanha;268;52203;38891;3273;13312
+2025;Jun;Amarilla;Empresas;México;158;30776;22928;1930;7848
+2025;Jun;Amarilla;Mercado intermediário;Estados Unidos;157;31358;23644;2397;7714
+2025;Jun;Amarilla;Mercado intermediário;Canadá;184;36751;27710;2809;9041
+2025;Jun;Amarilla;Mercado intermediário;França;211;42144;31777;3221;10367
+2025;Jun;Amarilla;Mercado intermediário;Alemanha;119;23768;17921;1817;5847
+2025;Jun;Amarilla;Mercado intermediário;México;146;29161;21987;2229;7174
+2025;Jun;Amarilla;Parceiros;Estados Unidos;127;25970;19815;2351;6155
+2025;Jun;Amarilla;Parceiros;Canadá;147;30060;22936;2721;7124
+2025;Jun;Amarilla;Parceiros;França;167;34150;26056;3091;8094
+2025;Jun;Amarilla;Parceiros;Alemanha;99;20245;15447;1832;4798
+2025;Jun;Amarilla;Parceiros;México;119;24334;18567;2203;5767
+2025;Jun;Montana;Governo;Estados Unidos;346;70117;52167;2543;17950
+2025;Jun;Montana;Governo;Canadá;408;82681;61515;2999;21166
+2025;Jun;Montana;Governo;França;471;95448;71013;3462;24435
+2025;Jun;Montana;Governo;Alemanha;259;52486;39050;1904;13436
+2025;Jun;Montana;Governo;México;321;65051;48398;2359;16653
+2025;Jun;Montana;Pequenas empresas;Estados Unidos;232;48199;36294;2377;11905
+2025;Jun;Montana;Pequenas empresas;Canadá;271;56301;42395;2777;13906
+2025;Jun;Montana;Pequenas empresas;França;309;64196;48340;3166;15856
+2025;Jun;Montana;Pequenas empresas;Alemanha;179;37188;28003;1834;9185
+2025;Jun;Montana;Pequenas empresas;México;217;45083;33947;2223;11136
+2025;Jun;Montana;Empresas;Estados Unidos;180;38280;29169;2400;9111
+2025;Jun;Montana;Empresas;Canadá;207;44022;33545;2760;10477
+2025;Jun;Montana;Empresas;França;115;24457;18636;1533;5821
+2025;Jun;Montana;Empresas;Alemanha;142;30199;23012;1893;7187
+2025;Jun;Montana;Empresas;México;169;35941;27387;2253;8554
+2025;Jun;Montana;Mercado intermediário;Estados Unidos;162;35217;27152;2691;8065
+2025;Jun;Montana;Mercado intermediário;Canadá;185;40216;31007;3074;9209
+2025;Jun;Montana;Mercado intermediário;França;108;23478;18102;1794;5376
+2025;Jun;Montana;Mercado intermediário;Alemanha;131;28478;21957;2176;6521
+2025;Jun;Montana;Mercado intermediário;México;153;33260;25643;2542;7617
+2025;Jun;Montana;Parceiros;Estados Unidos;129;28627;22329;2591;6298
+2025;Jun;Montana;Parceiros;Canadá;72;15978;12463;1446;3515
+2025;Jun;Montana;Parceiros;França;89;19750;15405;1788;4345
+2025;Jun;Montana;Parceiros;Alemanha;106;23523;18348;2129;5175
+2025;Jun;Montana;Parceiros;México;122;27074;21118;2450;5956
+2025;Jun;Carretera;Governo;Estados Unidos;375;82869;63063;3006;19806
+2025;Jun;Carretera;Governo;Canadá;429;94803;72145;3438;22658
+2025;Jun;Carretera;Governo;França;245;54141;41201;1964;12940
+2025;Jun;Carretera;Governo;Alemanha;300;66295;50450;2405;15845
+2025;Jun;Carretera;Governo;México;354;78229;59532;2837;18697
+2025;Jun;Carretera;Pequenas empresas;Estados Unidos;247;55788;42957;2751;12831
+2025;Jun;Carretera;Pequenas empresas;Canadá;135;30491;23478;1504;7013
+2025;Jun;Carretera;Pequenas empresas;França;168;37945;29218;1871;8727
+2025;Jun;Carretera;Pequenas empresas;Alemanha;201;45398;34956;2239;10442
+2025;Jun;Carretera;Pequenas empresas;México;235;53077;40869;2618;12208
+2025;Jun;Carretera;Empresas;Estados Unidos;188;43342;33763;2718;9579
+2025;Jun;Carretera;Empresas;Canadá;109;25129;19575;1576;5554
+2025;Jun;Carretera;Empresas;França;132;30432;23707;1908;6725
+2025;Jun;Carretera;Empresas;Alemanha;156;35965;28017;2255;7948
+2025;Jun;Carretera;Empresas;México;179;41268;32148;2587;9120
+2025;Jun;Carretera;Mercado intermediário;Estados Unidos;82;19273;15187;1473;4086
+2025;Jun;Carretera;Mercado intermediário;Canadá;101;23739;18706;1814;5033
+2025;Jun;Carretera;Mercado intermediário;França;121;28439;22410;2174;6029
+2025;Jun;Carretera;Mercado intermediário;Alemanha;140;32905;25929;2515;6976
+2025;Jun;Carretera;Mercado intermediário;México;160;37606;29634;2874;7972
+2025;Jun;Carretera;Parceiros;Estados Unidos;68;16275;12971;1473;3304
+2025;Jun;Carretera;Parceiros;Canadá;83;19865;15832;1798;4033
+2025;Jun;Carretera;Parceiros;França;97;23216;18503;2101;4713
+2025;Jun;Carretera;Parceiros;Alemanha;112;26806;21364;2426;5442
+2025;Jun;Carretera;Parceiros;México;63;15078;12017;1365;3061
+2025;Jul;Paseo;Governo;Estados Unidos;546;70603;47728;2561;22875
+2025;Jul;Paseo;Governo;Canadá;649;83922;56731;3044;27191
+2025;Jul;Paseo;Governo;França;752;97241;65735;3527;31506
+2025;Jul;Paseo;Governo;Alemanha;855;110560;74739;4010;35821
+2025;Jul;Paseo;Governo;México;506;65431;44231;2373;21200
+2025;Jul;Paseo;Pequenas empresas;Estados Unidos;368;49800;34113;2456;15687
+2025;Jul;Paseo;Pequenas empresas;Canadá;431;58326;39953;2876;18373
+2025;Jul;Paseo;Pequenas empresas;França;494;66851;45793;3297;21058
+2025;Jul;Paseo;Pequenas empresas;Alemanha;281;38027;26048;1875;11979
+2025;Jul;Paseo;Pequenas empresas;México;344;46552;31888;2296;14664
+2025;Jul;Paseo;Empresas;Estados Unidos;286;40369;28016;2531;12353
+2025;Jul;Paseo;Empresas;Canadá;330;46579;32326;2921;14253
+2025;Jul;Paseo;Empresas;França;375;52931;36734;3319;16197
+2025;Jul;Paseo;Empresas;Alemanha;224;31618;21943;1982;9675
+2025;Jul;Paseo;Empresas;México;268;37828;26253;2372;11575
+2025;Jul;Paseo;Mercado intermediário;Estados Unidos;258;37870;26623;2894;11247
+2025;Jul;Paseo;Mercado intermediário;Canadá;296;43447;30543;3321;12904
+2025;Jul;Paseo;Mercado intermediário;França;169;24806;17439;1896;7367
+2025;Jul;Paseo;Mercado intermediário;Alemanha;207;30384;21360;2322;9024
+2025;Jul;Paseo;Mercado intermediário;México;244;35815;25178;2737;10637
+2025;Jul;Paseo;Parceiros;Estados Unidos;206;31358;22327;2838;9031
+2025;Jul;Paseo;Parceiros;Canadá;113;17201;12247;1557;4954
+2025;Jul;Paseo;Parceiros;França;140;21311;15173;1929;6138
+2025;Jul;Paseo;Parceiros;Alemanha;168;25573;18208;2315;7365
+2025;Jul;Paseo;Parceiros;México;195;29683;21134;2687;8549
+2025;Jul;VTT;Governo;Estados Unidos;454;67031;46452;2431;20579
+2025;Jul;VTT;Governo;Canadá;522;77071;53410;2795;23661
+2025;Jul;VTT;Governo;França;292;43112;29877;1564;13235
+2025;Jul;VTT;Governo;Alemanha;360;53152;36834;1928;16318
+2025;Jul;VTT;Governo;México;428;63192;43792;2292;19400
+2025;Jul;VTT;Pequenas empresas;Estados Unidos;300;46030;32313;2270;13717
+2025;Jul;VTT;Pequenas empresas;Canadá;342;52474;36837;2588;15637
+2025;Jul;VTT;Pequenas empresas;França;201;30840;21650;1521;9190
+2025;Jul;VTT;Pequenas empresas;Alemanha;243;37284;26173;1839;11111
+2025;Jul;VTT;Pequenas empresas;México;284;43575;30590;2149;12985
+2025;Jul;VTT;Empresas;Estados Unidos;229;36418;25893;2283;10525
+2025;Jul;VTT;Empresas;Canadá;129;20515;14586;1286;5929
+2025;Jul;VTT;Empresas;França;159;25286;17978;1585;7308
+2025;Jul;VTT;Empresas;Alemanha;188;29897;21257;1875;8640
+2025;Jul;VTT;Empresas;México;218;34668;24649;2174;10019
+2025;Jul;VTT;Mercado intermediário;Estados Unidos;204;33544;24152;2564;9392
+2025;Jul;VTT;Mercado intermediário;Canadá;121;19896;14325;1521;5571
+2025;Jul;VTT;Mercado intermediário;França;146;24007;17285;1835;6722
+2025;Jul;VTT;Mercado intermediário;Alemanha;170;27954;20127;2136;7827
+2025;Jul;VTT;Mercado intermediário;México;195;32064;23086;2451;8978
+2025;Jul;VTT;Parceiros;Estados Unidos;81;13741;10017;1244;3724
+2025;Jul;VTT;Parceiros;Canadá;99;16795;12244;1520;4551
+2025;Jul;VTT;Parceiros;França;118;20018;14593;1812;5425
+2025;Jul;VTT;Parceiros;Alemanha;136;23072;16819;2088;6253
+2025;Jul;VTT;Parceiros;México;74;12554;9152;1136;3402
+2025;Jul;Velo;Governo;Estados Unidos;480;79670;56566;2890;23104
+2025;Jul;Velo;Governo;Canadá;278;46142;32761;1674;13381
+2025;Jul;Velo;Governo;França;338;56101;39832;2035;16269
+2025;Jul;Velo;Governo;Alemanha;397;65894;46785;2390;19109
+2025;Jul;Velo;Governo;México;457;75853;53856;2751;21997
+2025;Jul;Velo;Pequenas empresas;Estados Unidos;154;26417;18994;1303;7423
+2025;Jul;Velo;Pequenas empresas;Canadá;190;32593;23434;1607;9159
+2025;Jul;Velo;Pequenas empresas;França;226;38768;27874;1912;10894
+2025;Jul;Velo;Pequenas empresas;Alemanha;263;45115;32438;2225;12677
+2025;Jul;Velo;Pequenas empresas;México;299;51290;36878;2530;14412
+2025;Jul;Velo;Empresas;Estados Unidos;123;21760;15841;1364;5919
+2025;Jul;Velo;Empresas;Canadá;149;26359;19189;1653;7170
+2025;Jul;Velo;Empresas;França;175;30959;22538;1941;8421
+2025;Jul;Velo;Empresas;Alemanha;200;35382;25758;2218;9624
+2025;Jul;Velo;Empresas;México;113;19991;14553;1253;5438
+2025;Jul;Velo;Mercado intermediário;Estados Unidos;114;20758;15299;1586;5459
+2025;Jul;Velo;Mercado intermediário;Canadá;136;24763;18250;1893;6513
+2025;Jul;Velo;Mercado intermediário;França;157;28587;21069;2185;7518
+2025;Jul;Velo;Mercado intermediário;Alemanha;179;32593;24021;2491;8572
+2025;Jul;Velo;Mercado intermediário;México;106;19301;14225;1475;5076
+2025;Jul;Velo;Parceiros;Estados Unidos;93;17397;12978;1575;4419
+2025;Jul;Velo;Parceiros;Canadá;109;20390;15211;1846;5179
+2025;Jul;Velo;Parceiros;França;125;23383;17444;2117;5939
+2025;Jul;Velo;Parceiros;Alemanha;71;13282;9908;1202;3374
+2025;Jul;Velo;Parceiros;México;87;16275;12141;1473;4134
+2025;Jul;Amarilla;Governo;Estados Unidos;332;61193;44487;2219;16706
+2025;Jul;Amarilla;Governo;Canadá;398;73357;53331;2661;20026
+2025;Jul;Amarilla;Governo;França;463;85338;62041;3095;23297
+2025;Jul;Amarilla;Governo;Alemanha;529;97503;70885;3536;26618
+2025;Jul;Amarilla;Governo;México;307;56585;41137;2052;15448
+2025;Jul;Amarilla;Pequenas empresas;Estados Unidos;225;42671;31406;2104;11265
+2025;Jul;Amarilla;Pequenas empresas;Canadá;265;50256;36988;2479;13268
+2025;Jul;Amarilla;Pequenas empresas;França;305;57842;42572;2853;15270
+2025;Jul;Amarilla;Pequenas empresas;Alemanha;169;32050;23589;1581;8461
+2025;Jul;Amarilla;Pequenas empresas;México;209;39636;29172;1955;10464
+2025;Jul;Amarilla;Empresas;Estados Unidos;175;34088;25396;2137;8692
+2025;Jul;Amarilla;Empresas;Canadá;203;39542;29459;2479;10083
+2025;Jul;Amarilla;Empresas;França;232;45191;33667;2833;11524
+2025;Jul;Amarilla;Empresas;Alemanha;136;26491;19736;1661;6755
+2025;Jul;Amarilla;Empresas;México;164;31945;23799;2003;8146
+2025;Jul;Amarilla;Mercado intermediário;Estados Unidos;159;31758;23946;2427;7812
+2025;Jul;Amarilla;Mercado intermediário;Canadá;183;36552;27560;2793;8992
+2025;Jul;Amarilla;Mercado intermediário;França;102;20373;15361;1557;5012
+2025;Jul;Amarilla;Mercado intermediário;Alemanha;126;25167;18976;1923;6191
+2025;Jul;Amarilla;Mercado intermediário;México;150;29960;22590;2290;7370
+2025;Jul;Amarilla;Parceiros;Estados Unidos;127;25970;19815;2351;6155
+2025;Jul;Amarilla;Parceiros;Canadá;144;29447;22468;2665;6979
+2025;Jul;Amarilla;Parceiros;França;85;17382;13262;1573;4120
+2025;Jul;Amarilla;Parceiros;Alemanha;103;21063;16071;1906;4992
+2025;Jul;Amarilla;Parceiros;México;120;24539;18723;2221;5816
+2025;Jul;Montana;Governo;Estados Unidos;352;71333;53072;2587;18261
+2025;Jul;Montana;Governo;Canadá;407;82479;61364;2991;21115
+2025;Jul;Montana;Governo;França;222;44988;33471;1632;11517
+2025;Jul;Montana;Governo;Alemanha;277;56134;41764;2036;14370
+2025;Jul;Montana;Governo;México;331;67077;49905;2433;17172
+2025;Jul;Montana;Pequenas empresas;Estados Unidos;234;48614;36606;2398;12008
+2025;Jul;Montana;Pequenas empresas;Canadá;267;55470;41769;2736;13701
+2025;Jul;Montana;Pequenas empresas;França;154;31994;24091;1578;7903
+2025;Jul;Montana;Pequenas empresas;Alemanha;187;38850;29254;1916;9596
+2025;Jul;Montana;Pequenas empresas;México;221;45914;34573;2264;11341
+2025;Jul;Montana;Empresas;Estados Unidos;179;38067;29007;2387;9060
+2025;Jul;Montana;Empresas;Canadá;99;21054;16043;1320;5011
+2025;Jul;Montana;Empresas;França;122;25945;19770;1627;6175
+2025;Jul;Montana;Empresas;Alemanha;146;31049;23659;1947;7390
+2025;Jul;Montana;Empresas;México;170;36153;27549;2267;8604
+2025;Jul;Montana;Mercado intermediário;Estados Unidos;160;34782;26817;2658;7965
+2025;Jul;Montana;Mercado intermediário;Canadá;93;20217;15587;1545;4630
+2025;Jul;Montana;Mercado intermediário;França;113;24565;18940;1877;5625
+2025;Jul;Montana;Mercado intermediário;Alemanha;132;28695;22124;2193;6571
+2025;Jul;Montana;Mercado intermediário;México;152;33043;25476;2525;7567
+2025;Jul;Montana;Parceiros;Estados Unidos;62;13759;10732;1245;3027
+2025;Jul;Montana;Parceiros;Canadá;77;17087;13328;1547;3759
+2025;Jul;Montana;Parceiros;França;91;20194;15751;1828;4443
+2025;Jul;Montana;Parceiros;Alemanha;106;23523;18348;2129;5175
+2025;Jul;Montana;Parceiros;México;120;26630;20771;2410;5859
+2025;Jul;Carretera;Governo;Estados Unidos;371;81985;62391;2974;19594
+2025;Jul;Carretera;Governo;Canadá;211;46628;35484;1691;11144
+2025;Jul;Carretera;Governo;França;258;57014;43388;2068;13626
+2025;Jul;Carretera;Governo;Alemanha;305;67400;51291;2445;16109
+2025;Jul;Carretera;Governo;México;353;78008;59364;2829;18644
+2025;Jul;Carretera;Pequenas empresas;Estados Unidos;243;54884;42261;2707;12623
+2025;Jul;Carretera;Pequenas empresas;Canadá;145;32750;25217;1615;7533
+2025;Jul;Carretera;Pequenas empresas;França;174;39300;30261;1938;9039
+2025;Jul;Carretera;Pequenas empresas;Alemanha;203;45850;35304;2261;10546
+2025;Jul;Carretera;Pequenas empresas;México;231;52174;40174;2573;12000
+2025;Jul;Carretera;Empresas;Estados Unidos;93;21441;16703;1344;4738
+2025;Jul;Carretera;Empresas;Canadá;114;26282;20474;1648;5808
+2025;Jul;Carretera;Empresas;França;134;30893;24066;1937;6827
+2025;Jul;Carretera;Empresas;Alemanha;155;35734;27837;2241;7897
+2025;Jul;Carretera;Empresas;México;85;19596;15265;1229;4331
+2025;Jul;Carretera;Mercado intermediário;Estados Unidos;87;20448;16113;1563;4335
+2025;Jul;Carretera;Mercado intermediário;Canadá;104;24444;19262;1868;5182
+2025;Jul;Carretera;Mercado intermediário;França;121;28439;22410;2174;6029
+2025;Jul;Carretera;Mercado intermediário;Alemanha;138;32435;25559;2479;6876
+2025;Jul;Carretera;Mercado intermediário;México;81;19038;15002;1455;4036
+2025;Jul;Carretera;Parceiros;Estados Unidos;71;16993;13543;1538;3450
+2025;Jul;Carretera;Parceiros;Canadá;84;20104;16023;1820;4081
+2025;Jul;Carretera;Parceiros;França;97;23216;18503;2101;4713
+2025;Jul;Carretera;Parceiros;Alemanha;54;12924;10300;1170;2624
+2025;Jul;Carretera;Parceiros;México;66;15796;12589;1430;3207
+2025;Ago;Paseo;Governo;Estados Unidos;690;89224;60315;3236;28909
+2025;Ago;Paseo;Governo;Canadá;801;103577;70018;3757;33559
+2025;Ago;Paseo;Governo;França;911;117801;79633;4273;38168
+2025;Ago;Paseo;Governo;Alemanha;536;69310;46854;2514;22456
+2025;Ago;Paseo;Governo;México;647;83664;56557;3034;27107
+2025;Ago;Paseo;Pequenas empresas;Estados Unidos;459;62115;42549;3063;19566
+2025;Ago;Paseo;Pequenas empresas;Canadá;526;71181;48759;3511;22422
+2025;Ago;Paseo;Pequenas empresas;França;297;40192;27532;1982;12660
+2025;Ago;Paseo;Pequenas empresas;Alemanha;365;49394;33835;2436;15559
+2025;Ago;Paseo;Pequenas empresas;México;432;58461;40046;2883;18415
+2025;Ago;Paseo;Empresas;Estados Unidos;352;49685;34481;3115;15204
+2025;Ago;Paseo;Empresas;Canadá;400;56460;39183;3540;17277
+2025;Ago;Paseo;Empresas;França;237;33453;23216;2097;10237
+2025;Ago;Paseo;Empresas;Alemanha;285;40228;27918;2522;12310
+2025;Ago;Paseo;Empresas;México;333;47003;32620;2947;14383
+2025;Ago;Paseo;Mercado intermediário;Estados Unidos;315;46236;32504;3534;13732
+2025;Ago;Paseo;Mercado intermediário;Canadá;179;26274;18471;2008;7803
+2025;Ago;Paseo;Mercado intermediário;França;219;32145;22598;2457;9547
+2025;Ago;Paseo;Mercado intermediário;Alemanha;259;38017;26726;2905;11291
+2025;Ago;Paseo;Mercado intermediário;México;299;43888;30853;3354;13035
+2025;Ago;Paseo;Parceiros;Estados Unidos;249;37903;26987;3431;10916
+2025;Ago;Paseo;Parceiros;Canadá;149;22681;16149;2053;6532
+2025;Ago;Paseo;Parceiros;França;178;27096;19292;2452;7804
+2025;Ago;Paseo;Parceiros;Alemanha;208;31662;22543;2866;9119
+2025;Ago;Paseo;Parceiros;México;237;36077;25687;3265;10390
+2025;Ago;VTT;Governo;Estados Unidos;556;82091;56889;2977;25202
+2025;Ago;VTT;Governo;Canadá;308;45475;31514;1649;13961
+2025;Ago;VTT;Governo;França;381;56253;38983;2040;17270
+2025;Ago;VTT;Governo;Alemanha;454;67031;46452;2431;20579
+2025;Ago;VTT;Governo;México;527;77809;53922;2822;23887
+2025;Ago;VTT;Pequenas empresas;Estados Unidos;364;55850;39207;2754;16643
+2025;Ago;VTT;Pequenas empresas;Canadá;213;32681;22942;1612;9739
+2025;Ago;VTT;Pequenas empresas;França;258;39586;27789;1952;11797
+2025;Ago;VTT;Pequenas empresas;Alemanha;302;46337;32529;2285;13808
+2025;Ago;VTT;Pequenas empresas;México;347;53241;37375;2626;15866
+2025;Ago;VTT;Empresas;Estados Unidos;137;21787;15491;1366;6296
+2025;Ago;VTT;Empresas;Canadá;168;26717;18996;1675;7721
+2025;Ago;VTT;Empresas;França;200;31806;22614;1994;9192
+2025;Ago;VTT;Empresas;Alemanha;232;36895;26232;2313;10663
+2025;Ago;VTT;Empresas;México;263;41825;29738;2622;12087
+2025;Ago;VTT;Mercado intermediário;Estados Unidos;128;21047;15154;1609;5893
+2025;Ago;VTT;Mercado intermediário;Canadá;155;25487;18351;1948;7136
+2025;Ago;VTT;Mercado intermediário;França;181;29762;21429;2275;8333
+2025;Ago;VTT;Mercado intermediário;Alemanha;207;34038;24507;2601;9531
+2025;Ago;VTT;Mercado intermediário;México;118;19403;13970;1483;5433
+2025;Ago;VTT;Parceiros;Estados Unidos;105;17813;12986;1612;4827
+2025;Ago;VTT;Parceiros;Canadá;125;21206;15459;1919;5747
+2025;Ago;VTT;Parceiros;França;144;24429;17809;2211;6620
+2025;Ago;VTT;Parceiros;Alemanha;164;27822;20282;2518;7540
+2025;Ago;VTT;Parceiros;México;98;16625;12120;1505;4505
+2025;Ago;Velo;Governo;Estados Unidos;295;48964;34764;1776;14200
+2025;Ago;Velo;Governo;Canadá;358;59421;42189;2155;17232
+2025;Ago;Velo;Governo;França;422;70044;49731;2540;20313
+2025;Ago;Velo;Governo;Alemanha;486;80666;57273;2926;23393
+2025;Ago;Velo;Governo;México;270;44815;31819;1625;12996
+2025;Ago;Velo;Pequenas empresas;Estados Unidos;201;34480;24791;1700;9689
+2025;Ago;Velo;Pequenas empresas;Canadá;240;41170;29601;2030;11569
+2025;Ago;Velo;Pequenas empresas;França;279;47860;34411;2360;13449
+2025;Ago;Velo;Pequenas empresas;Alemanha;319;54721;39344;2699;15377
+2025;Ago;Velo;Pequenas empresas;México;186;31906;22940;1574;8966
+2025;Ago;Velo;Empresas;Estados Unidos;158;27951;20348;1753;7603
+2025;Ago;Velo;Empresas;Canadá;186;32905;23955;2063;8950
+2025;Ago;Velo;Empresas;França;213;37681;27432;2363;10249
+2025;Ago;Velo;Empresas;Alemanha;120;21229;15455;1331;5774
+2025;Ago;Velo;Empresas;México;147;26005;18932;1631;7073
+2025;Ago;Velo;Mercado intermediário;Estados Unidos;144;26220;19324;2004;6896
+2025;Ago;Velo;Mercado intermediário;Canadá;167;30408;22411;2324;7997
+2025;Ago;Velo;Mercado intermediário;França;190;34596;25497;2644;9099
+2025;Ago;Velo;Mercado intermediário;Alemanha;112;20393;15030;1559;5363
+2025;Ago;Velo;Mercado intermediário;México;135;24581;18116;1879;6465
+2025;Ago;Velo;Parceiros;Estados Unidos;116;21700;16188;1964;5512
+2025;Ago;Velo;Parceiros;Canadá;133;24880;18560;2252;6320
+2025;Ago;Velo;Parceiros;França;75;14030;10466;1270;3564
+2025;Ago;Velo;Parceiros;Alemanha;92;17210;12839;1558;4371
+2025;Ago;Velo;Parceiros;México;109;20390;15211;1846;5179
+2025;Ago;Amarilla;Governo;Estados Unidos;422;77781;56547;2821;21234
+2025;Ago;Amarilla;Governo;Canadá;493;90867;66060;3296;24807
+2025;Ago;Amarilla;Governo;França;563;103769;75440;3764;28329
+2025;Ago;Amarilla;Governo;Alemanha;325;59902;43549;2173;16353
+2025;Ago;Amarilla;Governo;México;395;72804;52929;2641;19875
+2025;Ago;Amarilla;Pequenas empresas;Estados Unidos;282;53480;39361;2638;14119
+2025;Ago;Amarilla;Pequenas empresas;Canadá;325;61635;45363;3040;16272
+2025;Ago;Amarilla;Pequenas empresas;França;179;33947;24985;1674;8962
+2025;Ago;Amarilla;Pequenas empresas;Alemanha;222;42102;30987;2076;11115
+2025;Ago;Amarilla;Pequenas empresas;México;265;50256;36988;2479;13268
+2025;Ago;Amarilla;Empresas;Estados Unidos;216;42074;31345;2638;10729
+2025;Ago;Amarilla;Empresas;Canadá;247;48112;35843;3017;12269
+2025;Ago;Amarilla;Empresas;França;144;28049;20897;1759;7152
+2025;Ago;Amarilla;Empresas;Alemanha;174;33893;25250;2125;8643
+2025;Ago;Amarilla;Empresas;México;205;39931;29749;2504;10182
+2025;Ago;Amarilla;Mercado intermediário;Estados Unidos;194;38749;29217;2961;9532
+2025;Ago;Amarilla;Mercado intermediário;Canadá;108;21571;16265;1649;5306
+2025;Ago;Amarilla;Mercado intermediário;França;134;26764;20180;2046;6584
+2025;Ago;Amarilla;Mercado intermediário;Alemanha;159;31758;23946;2427;7812
+2025;Ago;Amarilla;Mercado intermediário;México;184;36751;27710;2809;9041
+2025;Ago;Amarilla;Parceiros;Estados Unidos;154;31492;24028;2850;7464
+2025;Ago;Amarilla;Parceiros;Canadá;90;18404;14042;1666;4362
+2025;Ago;Amarilla;Parceiros;França;109;22290;17007;2017;5283
+2025;Ago;Amarilla;Parceiros;Alemanha;128;26175;19972;2369;6203
+2025;Ago;Amarilla;Parceiros;México;147;30060;22936;2721;7124
+2025;Ago;Montana;Governo;Estados Unidos;433;87747;65284;3183;22463
+2025;Ago;Montana;Governo;Canadá;492;99704;74180;3616;25524
+2025;Ago;Montana;Governo;França;293;59376;44176;2154;15200
+2025;Ago;Montana;Governo;Alemanha;352;71333;53072;2587;18261
+2025;Ago;Montana;Governo;México;411;83289;61967;3021;21322
+2025;Ago;Montana;Pequenas empresas;Estados Unidos;284;59002;44429;2910;14573
+2025;Ago;Montana;Pequenas empresas;Canadá;163;33864;25500;1670;8364
+2025;Ago;Montana;Pequenas empresas;França;199;41343;31131;2039;10212
+2025;Ago;Montana;Pequenas empresas;Alemanha;235;48822;36763;2408;12059
+2025;Ago;Montana;Pequenas empresas;México;271;56301;42395;2777;13906
+2025;Ago;Montana;Empresas;Estados Unidos;104;22117;16853;1387;5264
+2025;Ago;Montana;Empresas;Canadá;130;27647;21067;1733;6580
+2025;Ago;Montana;Empresas;França;155;32963;25118;2067;7845
+2025;Ago;Montana;Empresas;Alemanha;180;38280;29169;2400;9111
+2025;Ago;Montana;Empresas;México;206;43809;33382;2747;10427
+2025;Ago;Montana;Mercado intermediário;Estados Unidos;98;21304;16425;1628;4879
+2025;Ago;Montana;Mercado intermediário;Canadá;120;26086;20112;1994;5974
+2025;Ago;Montana;Mercado intermediário;França;141;30651;23632;2343;7019
+2025;Ago;Montana;Mercado intermediário;Alemanha;162;35217;27152;2691;8065
+2025;Ago;Montana;Mercado intermediário;México;90;19565;15085;1495;4480
+2025;Ago;Montana;Parceiros;Estados Unidos;81;17975;14021;1627;3954
+2025;Ago;Montana;Parceiros;Canadá;97;21526;16790;1948;4736
+2025;Ago;Montana;Parceiros;França;113;25076;19559;2270;5517
+2025;Ago;Montana;Parceiros;Alemanha;128;28405;22156;2571;6249
+2025;Ago;Montana;Parceiros;México;75;16644;12982;1506;3662
+2025;Ago;Carretera;Governo;Estados Unidos;223;49280;37502;1787;11778
+2025;Ago;Carretera;Governo;Canadá;274;60550;46079;2196;14471
+2025;Ago;Carretera;Governo;França;325;71820;54655;2605;17165
+2025;Ago;Carretera;Governo;Alemanha;375;82869;63063;3006;19806
+2025;Ago;Carretera;Governo;México;426;94140;71641;3414;22499
+2025;Ago;Carretera;Pequenas empresas;Estados Unidos;153;34557;26609;1704;7948
+2025;Ago;Carretera;Pequenas empresas;Canadá;184;41558;32000;2050;9558
+2025;Ago;Carretera;Pequenas empresas;França;215;48560;37391;2395;11169
+2025;Ago;Carretera;Pequenas empresas;Alemanha;247;55788;42957;2751;12831
+2025;Ago;Carretera;Pequenas empresas;México;141;31846;24521;1571;7325
+2025;Ago;Carretera;Empresas;Estados Unidos;121;27896;21731;1749;6165
+2025;Ago;Carretera;Empresas;Canadá;143;32968;25682;2067;7286
+2025;Ago;Carretera;Empresas;França;165;38040;29633;2385;8407
+2025;Ago;Carretera;Empresas;Alemanha;90;20749;16163;1301;4586
+2025;Ago;Carretera;Empresas;México;112;25821;20115;1619;5706
+2025;Ago;Carretera;Mercado intermediário;Estados Unidos;111;26089;20558;1994;5531
+2025;Ago;Carretera;Mercado intermediário;Canadá;129;30320;23892;2317;6428
+2025;Ago;Carretera;Mercado intermediário;França;147;34550;27225;2641;7325
+2025;Ago;Carretera;Mercado intermediário;Alemanha;85;19978;15743;1527;4235
+2025;Ago;Carretera;Mercado intermediário;México;104;24444;19262;1868;5182
+2025;Ago;Carretera;Parceiros;Estados Unidos;89;21301;16977;1928;4324
+2025;Ago;Carretera;Parceiros;Canadá;103;24652;19648;2231;5004
+2025;Ago;Carretera;Parceiros;França;57;13642;10873;1235;2769
+2025;Ago;Carretera;Parceiros;Alemanha;70;16754;13353;1516;3401
+2025;Ago;Carretera;Parceiros;México;84;20104;16023;1820;4081
+2025;Set;Paseo;Governo;Estados Unidos;918;118707;80246;4305;38461
+2025;Set;Paseo;Governo;Canadá;1046;135258;91434;4906;43824
+2025;Set;Paseo;Governo;França;612;79138;53497;2870;25641
+2025;Set;Paseo;Governo;Alemanha;740;95689;64686;3471;31003
+2025;Set;Paseo;Governo;México;868;112241;75875;4071;36366
+2025;Set;Paseo;Pequenas empresas;Estados Unidos;604;81737;55990;4031;25747
+2025;Set;Paseo;Pequenas empresas;Canadá;339;45876;31425;2262;14451
+2025;Set;Paseo;Pequenas empresas;França;417;56431;38655;2783;17776
+2025;Set;Paseo;Pequenas empresas;Alemanha;495;66986;45885;3304;21101
+2025;Set;Paseo;Pequenas empresas;México;574;77677;53209;3831;24468
+2025;Set;Paseo;Empresas;Estados Unidos;459;64788;44963;4062;19825
+2025;Set;Paseo;Empresas;Canadá;271;38252;26547;2398;11705
+2025;Set;Paseo;Empresas;França;326;46015;31934;2885;14081
+2025;Set;Paseo;Empresas;Alemanha;382;53919;37420;3381;16499
+2025;Set;Paseo;Empresas;México;437;61683;42808;3867;18875
+2025;Set;Paseo;Mercado intermediário;Estados Unidos;205;30090;21153;2300;8937
+2025;Set;Paseo;Mercado intermediário;Canadá;251;36842;25900;2816;10942
+2025;Set;Paseo;Mercado intermediário;França;297;43594;30647;3332;12947
+2025;Set;Paseo;Mercado intermediário;Alemanha;343;50346;35393;3848;14953
+2025;Set;Paseo;Mercado intermediário;México;390;57245;40243;4375;17002
+2025;Set;Paseo;Parceiros;Estados Unidos;170;25878;18425;2342;7453
+2025;Set;Paseo;Parceiros;Canadá;204;31053;22110;2811;8943
+2025;Set;Paseo;Parceiros;França;238;36229;25795;3279;10434
+2025;Set;Paseo;Parceiros;Alemanha;272;41404;29480;3748;11924
+2025;Set;Paseo;Parceiros;México;157;23899;17016;2163;6883
+2025;Set;VTT;Governo;Estados Unidos;351;51823;35913;1880;15910
+2025;Set;VTT;Governo;Canadá;436;64373;44610;2335;19763
+2025;Set;VTT;Governo;França;520;76775;53205;2785;23570
+2025;Set;VTT;Governo;Alemanha;605;89325;61902;3240;27423
+2025;Set;VTT;Governo;México;689;101727;70497;3690;31230
+2025;Set;VTT;Pequenas empresas;Estados Unidos;243;37284;26173;1839;11111
+2025;Set;VTT;Pequenas empresas;Canadá;295;45263;31775;2232;13488
+2025;Set;VTT;Pequenas empresas;França;346;53088;37268;2618;15820
+2025;Set;VTT;Pequenas empresas;Alemanha;398;61066;42868;3012;18198
+2025;Set;VTT;Pequenas empresas;México;223;34216;24020;1687;10196
+2025;Set;VTT;Empresas;Estados Unidos;192;30534;21710;1914;8824
+2025;Set;VTT;Empresas;Canadá;229;36418;25893;2283;10525
+2025;Set;VTT;Empresas;França;266;42302;30077;2652;12225
+2025;Set;VTT;Empresas;Alemanha;302;48027;34147;3011;13880
+2025;Set;VTT;Empresas;México;178;28307;20126;1775;8181
+2025;Set;VTT;Mercado intermediário;Estados Unidos;177;29105;20956;2224;8149
+2025;Set;VTT;Mercado intermediário;Canadá;208;34202;24625;2614;9577
+2025;Set;VTT;Mercado intermediário;França;238;39135;28177;2991;10958
+2025;Set;VTT;Mercado intermediário;Alemanha;135;22198;15983;1697;6215
+2025;Set;VTT;Mercado intermediário;México;165;27131;19534;2074;7597
+2025;Set;VTT;Parceiros;Estados Unidos;143;24259;17685;2196;6574
+2025;Set;VTT;Parceiros;Canadá;166;28161;20529;2549;7632
+2025;Set;VTT;Parceiros;França;188;31893;23250;2887;8643
+2025;Set;VTT;Parceiros;Alemanha;112;19000;13851;1720;5149
+2025;Set;VTT;Parceiros;México;134;22732;16572;2058;6160
+2025;Set;Velo;Governo;Estados Unidos;410;68052;48317;2468;19735
+2025;Set;Velo;Governo;Canadá;484;80334;57037;2914;23297
+2025;Set;Velo;Governo;França;558;92617;65758;3359;26859
+2025;Set;Velo;Governo;Alemanha;307;50956;36179;1848;14777
+2025;Set;Velo;Governo;México;381;63238;44899;2294;18339
+2025;Set;Velo;Pequenas empresas;Estados Unidos;275;47173;33917;2327;13256
+2025;Set;Velo;Pequenas empresas;Canadá;320;54893;39468;2707;15425
+2025;Set;Velo;Pequenas empresas;França;366;62784;45142;3096;17642
+2025;Set;Velo;Pequenas empresas;Alemanha;213;36538;26271;1802;10267
+2025;Set;Velo;Pequenas empresas;México;258;44257;31821;2183;12436
+2025;Set;Velo;Empresas;Estados Unidos;213;37681;27432;2363;10249
+2025;Set;Velo;Empresas;Canadá;245;43342;31553;2718;11789
+2025;Set;Velo;Empresas;França;136;24059;17515;1509;6544
+2025;Set;Velo;Empresas;Alemanha;168;29721;21637;1863;8084
+2025;Set;Velo;Empresas;México;200;35382;25758;2218;9624
+2025;Set;Velo;Mercado intermediário;Estados Unidos;192;34960;25766;2672;9194
+2025;Set;Velo;Mercado intermediário;Canadá;219;39876;29389;3048;10487
+2025;Set;Velo;Mercado intermediário;França;128;23307;17177;1781;6130
+2025;Set;Velo;Mercado intermediário;Alemanha;155;28223;20800;2157;7423
+2025;Set;Velo;Mercado intermediário;México;182;33139;24423;2533;8716
+2025;Set;Velo;Parceiros;Estados Unidos;153;28621;21351;2591;7270
+2025;Set;Velo;Parceiros;Canadá;86;16088;12002;1456;4086
+2025;Set;Velo;Parceiros;França;106;19829;14792;1795;5037
+2025;Set;Velo;Parceiros;Alemanha;125;23383;17444;2117;5939
+2025;Set;Velo;Parceiros;México;145;27125;20235;2455;6890
+2025;Set;Amarilla;Governo;Estados Unidos;565;104138;75708;3777;28430
+2025;Set;Amarilla;Governo;Canadá;646;119067;86562;4319;32505
+2025;Set;Amarilla;Governo;França;370;68197;49579;2473;18618
+2025;Set;Amarilla;Governo;Alemanha;452;83310;60566;3022;22744
+2025;Set;Amarilla;Governo;México;533;98240;71420;3563;26820
+2025;Set;Amarilla;Pequenas empresas;Estados Unidos;372;70549;51924;3479;18625
+2025;Set;Amarilla;Pequenas empresas;Canadá;204;38688;28474;1908;10214
+2025;Set;Amarilla;Pequenas empresas;França;254;48170;35453;2376;12717
+2025;Set;Amarilla;Pequenas empresas;Alemanha;303;57463;42293;2834;15170
+2025;Set;Amarilla;Pequenas empresas;México;353;66945;49272;3302;17673
+2025;Set;Amarilla;Empresas;Estados Unidos;283;55125;41068;3456;14057
+2025;Set;Amarilla;Empresas;Canadá;164;31945;23799;2003;8146
+2025;Set;Amarilla;Empresas;França;199;38763;28878;2430;9885
+2025;Set;Amarilla;Empresas;Alemanha;234;45580;33957;2858;11623
+2025;Set;Amarilla;Empresas;México;270;52592;39181;3298;13411
+2025;Set;Amarilla;Mercado intermediário;Estados Unidos;123;24567;18524;1878;6043
+2025;Set;Amarilla;Mercado intermediário;Canadá;153;30559;23041;2336;7518
+2025;Set;Amarilla;Mercado intermediário;França;182;36352;27409;2778;8943
+2025;Set;Amarilla;Mercado intermediário;Alemanha;212;42344;31927;3236;10417
+2025;Set;Amarilla;Mercado intermediário;México;241;48136;36295;3679;11841
+2025;Set;Amarilla;Parceiros;Estados Unidos;103;21063;16071;1906;4992
+2025;Set;Amarilla;Parceiros;Canadá;125;25561;19503;2314;6058
+2025;Set;Amarilla;Parceiros;França;146;29856;22780;2702;7076
+2025;Set;Amarilla;Parceiros;Alemanha;168;34354;26212;3110;8142
+2025;Set;Amarilla;Parceiros;México;95;19427;14823;1758;4604
+2025;Set;Montana;Governo;Estados Unidos;565;114497;85186;4153;29311
+2025;Set;Montana;Governo;Canadá;335;67888;50509;2462;17379
+2025;Set;Montana;Governo;França;403;81668;60761;2962;20907
+2025;Set;Montana;Governo;Alemanha;471;95448;71013;3462;24435
+2025;Set;Montana;Governo;México;538;109026;81115;3954;27911
+2025;Set;Montana;Pequenas empresas;Estados Unidos;186;38642;29097;1906;9545
+2025;Set;Montana;Pequenas empresas;Canadá;227;47160;35511;2326;11649
+2025;Set;Montana;Pequenas empresas;França;269;55886;42082;2756;13804
+2025;Set;Montana;Pequenas empresas;Alemanha;310;64404;48496;3176;15908
+2025;Set;Montana;Pequenas empresas;México;170;35318;26594;1742;8724
+2025;Set;Montana;Empresas;Estados Unidos;148;31475;23984;1973;7491
+2025;Set;Montana;Empresas;Canadá;177;37642;28683;2360;8959
+2025;Set;Montana;Empresas;França;207;44022;33545;2760;10477
+2025;Set;Montana;Empresas;Alemanha;236;50189;38244;3147;11945
+2025;Set;Montana;Empresas;México;137;29135;22201;1827;6934
+2025;Set;Montana;Mercado intermediário;Estados Unidos;137;29782;22962;2276;6820
+2025;Set;Montana;Mercado intermediário;Canadá;161;34999;26984;2675;8015
+2025;Set;Montana;Mercado intermediário;França;186;40434;31175;3090;9259
+2025;Set;Montana;Mercado intermediário;Alemanha;103;22391;17263;1711;5128
+2025;Set;Montana;Mercado intermediário;México;127;27608;21286;2110;6322
+2025;Set;Montana;Parceiros;Estados Unidos;111;24632;19213;2230;5419
+2025;Set;Montana;Parceiros;Canadá;129;28627;22329;2591;6298
+2025;Set;Montana;Parceiros;França;147;32621;25444;2953;7177
+2025;Set;Montana;Parceiros;Alemanha;86;19085;14886;1727;4199
+2025;Set;Montana;Parceiros;México;104;23079;18002;2089;5077
+2025;Set;Carretera;Governo;Estados Unidos;313;69168;52637;2509;16531
+2025;Set;Carretera;Governo;Canadá;372;82206;62559;2982;19647
+2025;Set;Carretera;Governo;França;431;95245;72481;3454;22764
+2025;Set;Carretera;Governo;Alemanha;489;108062;82235;3919;25827
+2025;Set;Carretera;Governo;México;290;64086;48769;2324;15317
+2025;Set;Carretera;Pequenas empresas;Estados Unidos;211;47657;36696;2350;10961
+2025;Set;Carretera;Pequenas empresas;Canadá;247;55788;42957;2751;12831
+2025;Set;Carretera;Pequenas empresas;França;283;63919;49218;3152;14701
+2025;Set;Carretera;Pequenas empresas;Alemanha;161;36364;28000;1793;8364
+2025;Set;Carretera;Pequenas empresas;México;197;44495;34261;2194;10234
+2025;Set;Carretera;Empresas;Estados Unidos;164;37809;29453;2371;8356
+2025;Set;Carretera;Empresas;Canadá;189;43573;33943;2732;9630
+2025;Set;Carretera;Empresas;França;215;49567;38613;3108;10954
+2025;Set;Carretera;Empresas;Alemanha;128;29510;22988;1850;6522
+2025;Set;Carretera;Empresas;México;154;35504;27658;2226;7846
+2025;Set;Carretera;Mercado intermediário;Estados Unidos;148;34785;27411;2659;7374
+2025;Set;Carretera;Mercado intermediário;Canadá;169;39721;31300;3036;8421
+2025;Set;Carretera;Mercado intermediário;França;97;22799;17966;1742;4833
+2025;Set;Carretera;Mercado intermediário;Alemanha;119;27969;22040;2138;5929
+2025;Set;Carretera;Mercado intermediário;México;140;32905;25929;2515;6976
+2025;Set;Carretera;Parceiros;Estados Unidos;118;28242;22509;2556;5733
+2025;Set;Carretera;Parceiros;Canadá;65;15557;12399;1408;3158
+2025;Set;Carretera;Parceiros;França;80;19147;15260;1733;3887
+2025;Set;Carretera;Parceiros;Alemanha;96;22976;18312;2080;4664
+2025;Set;Carretera;Parceiros;México;112;26806;21364;2426;5442
+2025;Out;Paseo;Governo;Estados Unidos;1161;150129;101487;5445;48642
+2025;Out;Paseo;Governo;Canadá;675;87284;59004;3166;28280
+2025;Out;Paseo;Governo;França;819;105905;71592;3841;34313
+2025;Out;Paseo;Governo;Alemanha;962;124396;84092;4512;40304
+2025;Out;Paseo;Governo;México;1105;142888;96592;5182;46296
+2025;Out;Paseo;Pequenas empresas;Estados Unidos;373;50477;34577;2489;15900
+2025;Out;Paseo;Pequenas empresas;Canadá;461;62385;42734;3077;19651
+2025;Out;Paseo;Pequenas empresas;França;548;74159;50799;3657;23360
+2025;Out;Paseo;Pequenas empresas;Alemanha;636;86067;58956;4245;27111
+2025;Out;Paseo;Pequenas empresas;México;724;97976;67114;4832;30862
+2025;Out;Paseo;Empresas;Estados Unidos;299;42204;29290;2646;12914
+2025;Out;Paseo;Empresas;Canadá;361;50955;35363;3195;15592
+2025;Out;Paseo;Empresas;França;423;59706;41436;3744;18270
+2025;Out;Paseo;Empresas;Alemanha;485;68458;47510;4292;20948
+2025;Out;Paseo;Empresas;México;275;38816;26938;2434;11878
+2025;Out;Paseo;Mercado intermediário;Estados Unidos;277;40659;28583;3107;12076
+2025;Out;Paseo;Mercado intermediário;Canadá;329;48291;33949;3691;14342
+2025;Out;Paseo;Mercado intermediário;França;381;55924;39315;4274;16609
+2025;Out;Paseo;Mercado intermediário;Alemanha;433;63557;44681;4857;18876
+2025;Out;Paseo;Mercado intermediário;México;257;37723;26519;2883;11204
+2025;Out;Paseo;Parceiros;Estados Unidos;226;34402;24494;3114;9908
+2025;Out;Paseo;Parceiros;Canadá;264;40187;28613;3637;11574
+2025;Out;Paseo;Parceiros;França;302;45971;32731;4161;13240
+2025;Out;Paseo;Parceiros;Alemanha;173;26334;18750;2384;7584
+2025;Out;Paseo;Parceiros;México;211;32119;22869;2907;9250
+2025;Out;VTT;Governo;Estados Unidos;481;71017;49215;2576;21802
+2025;Out;VTT;Governo;Canadá;576;85044;58935;3084;26109
+2025;Out;VTT;Governo;França;670;98922;68553;3588;30369
+2025;Out;VTT;Governo;Alemanha;765;112948;78273;4097;34675
+2025;Out;VTT;Governo;México;445;65702;45531;2383;20171
+2025;Out;VTT;Pequenas empresas;Estados Unidos;326;50019;35113;2467;14906
+2025;Out;VTT;Pequenas empresas;Canadá;384;58918;41360;2906;17558
+2025;Out;VTT;Pequenas empresas;França;441;67664;47500;3337;20164
+2025;Out;VTT;Pequenas empresas;Alemanha;246;37745;26497;1861;11248
+2025;Out;VTT;Pequenas empresas;México;304;46644;32744;2300;13900
+2025;Out;VTT;Empresas;Estados Unidos;254;40393;28719;2533;11674
+2025;Out;VTT;Empresas;Canadá;294;46755;33243;2931;13512
+2025;Out;VTT;Empresas;França;335;53275;37879;3340;15396
+2025;Out;VTT;Empresas;Alemanha;197;31329;22275;1964;9054
+2025;Out;VTT;Empresas;México;238;37849;26911;2373;10938
+2025;Out;VTT;Mercado intermediário;Estados Unidos;230;37820;27230;2890;10590
+2025;Out;VTT;Mercado intermediário;Canadá;264;43410;31255;3318;12155
+2025;Out;VTT;Mercado intermediário;França;149;24501;17641;1872;6860
+2025;Out;VTT;Mercado intermediário;Alemanha;183;30091;21666;2300;8425
+2025;Out;VTT;Mercado intermediário;México;217;35682;25691;2727;9991
+2025;Out;VTT;Parceiros;Estados Unidos;184;31215;22756;2825;8459
+2025;Out;VTT;Parceiros;Canadá;209;35456;25847;3209;9609
+2025;Out;VTT;Parceiros;França;124;21036;15335;1904;5701
+2025;Out;VTT;Parceiros;Alemanha;149;25277;18427;2288;6850
+2025;Out;VTT;Parceiros;México;174;29518;21519;2672;7999
+2025;Out;Velo;Governo;Estados Unidos;536;88965;63165;3227;25800
+2025;Out;Velo;Governo;Canadá;619;102742;72947;3726;29795
+2025;Out;Velo;Governo;França;339;56267;39950;2041;16317
+2025;Out;Velo;Governo;Alemanha;421;69878;49613;2534;20265
+2025;Out;Velo;Governo;México;504;83654;59394;3034;24260
+2025;Out;Velo;Pequenas empresas;Estados Unidos;355;60897;43785;3003;17112
+2025;Out;Velo;Pequenas empresas;Canadá;406;69645;50075;3435;19570
+2025;Out;Velo;Pequenas empresas;França;235;40312;28984;1988;11328
+2025;Out;Velo;Pequenas empresas;Alemanha;285;48889;35151;2411;13738
+2025;Out;Velo;Pequenas empresas;México;336;57637;41441;2843;16196
+2025;Out;Velo;Empresas;Estados Unidos;271;47942;34902;3006;13040
+2025;Out;Velo;Empresas;Canadá;150;26536;19318;1664;7218
+2025;Out;Velo;Empresas;França;186;32905;23955;2063;8950
+2025;Out;Velo;Empresas;Alemanha;222;39274;28591;2462;10683
+2025;Out;Velo;Empresas;México;258;45642;33227;2862;12415
+2025;Out;Velo;Mercado intermediário;Estados Unidos;243;44246;32609;3382;11637
+2025;Out;Velo;Mercado intermediário;Canadá;142;25856;19056;1976;6800
+2025;Out;Velo;Mercado intermediário;França;171;31136;22947;2380;8189
+2025;Out;Velo;Mercado intermediário;Alemanha;201;36599;26973;2797;9626
+2025;Out;Velo;Mercado intermediário;México;231;42061;30999;3215;11062
+2025;Out;Velo;Parceiros;Estados Unidos;95;17771;13257;1609;4514
+2025;Out;Velo;Parceiros;Canadá;117;21887;16328;1981;5559
+2025;Out;Velo;Parceiros;França;139;26002;19397;2354;6605
+2025;Out;Velo;Parceiros;Alemanha;161;30118;22468;2726;7650
+2025;Out;Velo;Parceiros;México;183;34233;25538;3099;8695
+2025;Out;Amarilla;Governo;Estados Unidos;717;132154;96076;4793;36078
+2025;Out;Amarilla;Governo;Canadá;408;75201;54671;2727;20530
+2025;Out;Amarilla;Governo;França;499;91973;66864;3336;25109
+2025;Out;Amarilla;Governo;Alemanha;591;108930;79192;3951;29738
+2025;Out;Amarilla;Governo;México;682;125703;91386;4559;34317
+2025;Out;Amarilla;Pequenas empresas;Estados Unidos;469;88944;65463;4387;23481
+2025;Out;Amarilla;Pequenas empresas;Canadá;280;53101;39082;2619;14019
+2025;Out;Amarilla;Pequenas empresas;França;336;63721;46899;3143;16822
+2025;Out;Amarilla;Pequenas empresas;Alemanha;391;74152;54576;3657;19576
+2025;Out;Amarilla;Pequenas empresas;México;447;84772;62392;4181;22380
+2025;Out;Amarilla;Empresas;Estados Unidos;181;35256;26266;2211;8990
+2025;Out;Amarilla;Empresas;Canadá;220;42853;31925;2687;10928
+2025;Out;Amarilla;Empresas;França;260;50645;37731;3175;12914
+2025;Out;Amarilla;Empresas;Alemanha;299;58241;43390;3652;14851
+2025;Out;Amarilla;Empresas;México;166;32335;24090;2027;8245
+2025;Out;Amarilla;Mercado intermediário;Estados Unidos;169;33755;25451;2580;8304
+2025;Out;Amarilla;Mercado intermediário;Canadá;202;40346;30421;3084;9925
+2025;Out;Amarilla;Mercado intermediário;França;234;46738;35240;3572;11498
+2025;Out;Amarilla;Mercado intermediário;Alemanha;267;53329;40210;4076;13119
+2025;Out;Amarilla;Mercado intermediário;México;156;31159;23494;2381;7665
+2025;Out;Amarilla;Parceiros;Estados Unidos;138;28220;21532;2554;6688
+2025;Out;Amarilla;Parceiros;Canadá;162;33128;25277;2998;7851
+2025;Out;Amarilla;Parceiros;França;186;38035;29021;3443;9014
+2025;Out;Amarilla;Parceiros;Alemanha;104;21267;16227;1925;5040
+2025;Out;Amarilla;Parceiros;México;128;26175;19972;2369;6203
+2025;Out;Montana;Governo;Estados Unidos;370;74980;55785;2720;19195
+2025;Out;Montana;Governo;Canadá;446;90382;67244;3278;23138
+2025;Out;Montana;Governo;França;522;105783;78703;3837;27080
+2025;Out;Montana;Governo;Alemanha;597;120982;90011;4388;30971
+2025;Out;Montana;Governo;México;340;68901;51262;2499;17639
+2025;Out;Montana;Pequenas empresas;Estados Unidos;251;52146;39266;2572;12880
+2025;Out;Montana;Pequenas empresas;Canadá;298;61911;46619;3053;15292
+2025;Out;Montana;Pequenas empresas;França;344;71467;53815;3525;17652
+2025;Out;Montana;Pequenas empresas;Alemanha;391;81232;61168;4006;20064
+2025;Out;Montana;Pequenas empresas;México;233;48407;36450;2387;11957
+2025;Out;Montana;Empresas;Estados Unidos;196;41683;31762;2613;9921
+2025;Out;Montana;Empresas;Canadá;229;48701;37110;3053;11591
+2025;Out;Montana;Empresas;França;262;55718;42457;3494;13261
+2025;Out;Montana;Empresas;Alemanha;151;32113;24470;2013;7643
+2025;Out;Montana;Empresas;México;184;39131;29818;2453;9313
+2025;Out;Montana;Mercado intermediário;Estados Unidos;179;38912;30001;2974;8911
+2025;Out;Montana;Mercado intermediário;Canadá;206;44782;34527;3422;10255
+2025;Out;Montana;Mercado intermediário;França;113;24565;18940;1877;5625
+2025;Out;Montana;Mercado intermediário;Alemanha;141;30651;23632;2343;7019
+2025;Out;Montana;Mercado intermediário;México;168;36521;28158;2791;8363
+2025;Out;Montana;Parceiros;Estados Unidos;143;31734;24753;2872;6981
+2025;Out;Montana;Parceiros;Canadá;163;36172;28214;3274;7958
+2025;Out;Montana;Parceiros;França;95;21082;16444;1908;4638
+2025;Out;Montana;Parceiros;Alemanha;115;25520;19906;2310;5614
+2025;Out;Montana;Parceiros;México;135;29958;23367;2712;6591
+2025;Out;Carretera;Governo;Estados Unidos;412;91046;69286;3302;21760
+2025;Out;Carretera;Governo;Canadá;477;105410;80217;3823;25193
+2025;Out;Carretera;Governo;França;543;119995;91316;4352;28679
+2025;Out;Carretera;Governo;Alemanha;320;70715;53814;2565;16901
+2025;Out;Carretera;Governo;México;386;85300;64913;3094;20387
+2025;Out;Carretera;Pequenas empresas;Estados Unidos;274;61886;47652;3052;14234
+2025;Out;Carretera;Pequenas empresas;Canadá;314;70920;54608;3498;16312
+2025;Out;Carretera;Pequenas empresas;França;178;40203;30956;1983;9247
+2025;Out;Carretera;Pequenas empresas;Alemanha;218;49238;37913;2428;11325
+2025;Out;Carretera;Pequenas empresas;México;258;58272;44869;2874;13403
+2025;Out;Carretera;Empresas;Estados Unidos;210;48414;37715;3036;10699
+2025;Out;Carretera;Empresas;Canadá;238;54870;42744;3440;12126
+2025;Out;Carretera;Empresas;França;142;32737;25502;2053;7235
+2025;Out;Carretera;Empresas;Alemanha;170;39193;30531;2457;8662
+2025;Out;Carretera;Empresas;México;199;45878;35739;2877;10139
+2025;Out;Carretera;Mercado intermediário;Estados Unidos;188;44187;34819;3377;9368
+2025;Out;Carretera;Mercado intermediário;Canadá;107;25149;19817;1922;5332
+2025;Out;Carretera;Mercado intermediário;França;131;30790;24263;2353;6527
+2025;Out;Carretera;Mercado intermediário;Alemanha;155;36431;28708;2784;7723
+2025;Out;Carretera;Mercado intermediário;México;179;42072;33153;3215;8919
+2025;Out;Carretera;Parceiros;Estados Unidos;71;16993;13543;1538;3450
+2025;Out;Carretera;Parceiros;Canadá;89;21301;16977;1928;4324
+2025;Out;Carretera;Parceiros;França;106;25370;20220;2296;5150
+2025;Out;Carretera;Parceiros;Alemanha;124;29678;23653;2686;6025
+2025;Out;Carretera;Parceiros;México;141;33747;26896;3054;6851
+2025;Nov;Paseo;Governo;Estados Unidos;616;79655;53847;2889;25808
+2025;Nov;Paseo;Governo;Canadá;748;96724;65385;3508;31339
+2025;Nov;Paseo;Governo;França;881;113922;77011;4132;36911
+2025;Nov;Paseo;Governo;Alemanha;1013;130991;88550;4751;42441
+2025;Nov;Paseo;Governo;México;564;72931;49301;2645;23630
+2025;Nov;Paseo;Pequenas empresas;Estados Unidos;421;56972;39026;2810;17946
+2025;Nov;Paseo;Pequenas empresas;Canadá;502;67934;46535;3350;21399
+2025;Nov;Paseo;Pequenas empresas;França;583;78895;54043;3891;24852
+2025;Nov;Paseo;Pequenas empresas;Alemanha;663;89721;61459;4425;28262
+2025;Nov;Paseo;Pequenas empresas;México;389;52642;36060;2596;16582
+2025;Nov;Paseo;Empresas;Estados Unidos;330;46579;32326;2921;14253
+2025;Nov;Paseo;Empresas;Canadá;387;54625;37910;3425;16715
+2025;Nov;Paseo;Empresas;França;445;62812;43592;3938;19220
+2025;Nov;Paseo;Empresas;Alemanha;250;35287;24489;2213;10798
+2025;Nov;Paseo;Empresas;México;307;43333;30073;2717;13260
+2025;Nov;Paseo;Mercado intermediário;Estados Unidos;301;44181;31059;3377;13122
+2025;Nov;Paseo;Mercado intermediário;Canadá;349;51227;36013;3915;15214
+2025;Nov;Paseo;Mercado intermediário;França;397;58272;40965;4454;17307
+2025;Nov;Paseo;Mercado intermediário;Alemanha;235;34494;24249;2636;10245
+2025;Nov;Paseo;Mercado intermediário;México;282;41393;29099;3163;12294
+2025;Nov;Paseo;Parceiros;Estados Unidos;242;36838;26229;3334;10609
+2025;Nov;Paseo;Parceiros;Canadá;277;42165;30021;3817;12144
+2025;Nov;Paseo;Parceiros;França;157;23899;17016;2163;6883
+2025;Nov;Paseo;Parceiros;Alemanha;193;29379;20918;2659;8461
+2025;Nov;Paseo;Parceiros;México;228;34707;24711;3141;9996
+2025;Nov;VTT;Governo;Estados Unidos;527;77809;53922;2822;23887
+2025;Nov;VTT;Governo;Canadá;614;90654;62823;3288;27831
+2025;Nov;VTT;Governo;França;701;103499;71725;3754;31774
+2025;Nov;VTT;Governo;Alemanha;406;59944;41541;2174;18403
+2025;Nov;VTT;Governo;México;493;72789;50443;2640;22346
+2025;Nov;VTT;Pequenas empresas;Estados Unidos;351;53855;37806;2656;16049
+2025;Nov;VTT;Pequenas empresas;Canadá;404;61987;43515;3057;18472
+2025;Nov;VTT;Pequenas empresas;França;224;34369;24127;1695;10242
+2025;Nov;VTT;Pequenas empresas;Alemanha;277;42501;29836;2096;12665
+2025;Nov;VTT;Pequenas empresas;México;330;50633;35544;2497;15089
+2025;Nov;VTT;Empresas;Estados Unidos;270;42938;30529;2692;12409
+2025;Nov;VTT;Empresas;Canadá;308;48981;34825;3071;14156
+2025;Nov;VTT;Empresas;França;179;28466;20239;1785;8227
+2025;Nov;VTT;Empresas;Alemanha;217;34509;24536;2164;9973
+2025;Nov;VTT;Empresas;México;255;40552;28832;2543;11720
+2025;Nov;VTT;Mercado intermediário;Estados Unidos;242;39793;28651;3041;11142
+2025;Nov;VTT;Mercado intermediário;Canadá;135;22198;15983;1697;6215
+2025;Nov;VTT;Mercado intermediário;França;167;27460;19771;2099;7689
+2025;Nov;VTT;Mercado intermediário;Alemanha;198;32558;23442;2488;9116
+2025;Nov;VTT;Mercado intermediário;México;230;37820;27230;2890;10590
+2025;Nov;VTT;Parceiros;Estados Unidos;191;32402;23621;2933;8781
+2025;Nov;VTT;Parceiros;Canadá;113;19170;13975;1735;5195
+2025;Nov;VTT;Parceiros;França;136;23072;16819;2088;6253
+2025;Nov;VTT;Parceiros;Alemanha;159;26974;19664;2441;7310
+2025;Nov;VTT;Parceiros;México;182;30875;22508;2795;8367
+2025;Nov;Velo;Governo;Estados Unidos;567;94111;66819;3413;27292
+2025;Nov;Velo;Governo;Canadá;643;106725;75775;3871;30950
+2025;Nov;Velo;Governo;França;384;63736;45253;2312;18483
+2025;Nov;Velo;Governo;Alemanha;461;76517;54327;2775;22190
+2025;Nov;Velo;Governo;México;537;89131;63283;3233;25848
+2025;Nov;Velo;Pequenas empresas;Estados Unidos;372;63813;45882;3147;17931
+2025;Nov;Velo;Pequenas empresas;Canadá;214;36710;26394;1810;10316
+2025;Nov;Velo;Pequenas empresas;França;261;44772;32191;2208;12581
+2025;Nov;Velo;Pequenas empresas;Alemanha;307;52663;37865;2597;14798
+2025;Nov;Velo;Pequenas empresas;México;354;60725;43661;2995;17064
+2025;Nov;Velo;Empresas;Estados Unidos;137;24236;17644;1520;6592
+2025;Nov;Velo;Empresas;Canadá;170;30074;21894;1886;8180
+2025;Nov;Velo;Empresas;França;203;35912;26144;2252;9768
+2025;Nov;Velo;Empresas;Alemanha;236;41750;30394;2618;11356
+2025;Nov;Velo;Empresas;México;269;47588;34644;2984;12944
+2025;Nov;Velo;Mercado intermediário;Estados Unidos;129;23489;17311;1795;6178
+2025;Nov;Velo;Mercado intermediário;Canadá;157;28587;21069;2185;7518
+2025;Nov;Velo;Mercado intermediário;França;184;33503;24692;2561;8811
+2025;Nov;Velo;Mercado intermediário;Alemanha;212;38602;28450;2950;10152
+2025;Nov;Velo;Mercado intermediário;México;118;21486;15835;1642;5651
+2025;Nov;Velo;Parceiros;Estados Unidos;106;19829;14792;1795;5037
+2025;Nov;Velo;Parceiros;Canadá;127;23758;17723;2150;6035
+2025;Nov;Velo;Parceiros;França;147;27499;20514;2489;6985
+2025;Nov;Velo;Parceiros;Alemanha;168;31427;23445;2845;7982
+2025;Nov;Velo;Parceiros;México;99;18520;13816;1676;4704
+2025;Nov;Amarilla;Governo;Estados Unidos;372;68565;49847;2487;18718
+2025;Nov;Amarilla;Governo;Canadá;456;84048;61103;3048;22945
+2025;Nov;Amarilla;Governo;França;540;99530;72358;3610;27172
+2025;Nov;Amarilla;Governo;Alemanha;625;115197;83748;4178;31449
+2025;Nov;Amarilla;Governo;México;709;130679;95004;4740;35675
+2025;Nov;Amarilla;Pequenas empresas;Estados Unidos;256;48550;35733;2394;12817
+2025;Nov;Amarilla;Pequenas empresas;Canadá;307;58222;42851;2871;15371
+2025;Nov;Amarilla;Pequenas empresas;França;358;67894;49970;3348;17924
+2025;Nov;Amarilla;Pequenas empresas;Alemanha;410;77755;57228;3835;20527
+2025;Nov;Amarilla;Pequenas empresas;México;236;44757;32941;2207;11816
+2025;Nov;Amarilla;Empresas;Estados Unidos;201;39152;29168;2455;9984
+2025;Nov;Amarilla;Empresas;Canadá;238;46359;34537;2907;11822
+2025;Nov;Amarilla;Empresas;França;274;53372;39762;3346;13610
+2025;Nov;Amarilla;Empresas;Alemanha;151;29413;21913;1844;7500
+2025;Nov;Amarilla;Empresas;México;187;36425;27137;2284;9288
+2025;Nov;Amarilla;Mercado intermediário;Estados Unidos;184;36751;27710;2809;9041
+2025;Nov;Amarilla;Mercado intermediário;Canadá;215;42943;32379;3282;10564
+2025;Nov;Amarilla;Mercado intermediário;França;245;48935;36897;3740;12038
+2025;Nov;Amarilla;Mercado intermediário;Alemanha;142;28362;21385;2168;6977
+2025;Nov;Amarilla;Mercado intermediário;México;173;34554;26054;2641;8500
+2025;Nov;Amarilla;Parceiros;Estados Unidos;148;30265;23092;2739;7173
+2025;Nov;Amarilla;Parceiros;Canadá;171;34968;26681;3165;8287
+2025;Nov;Amarilla;Parceiros;França;95;19427;14823;1758;4604
+2025;Nov;Amarilla;Parceiros;Alemanha;117;23925;18255;2166;5670
+2025;Nov;Amarilla;Parceiros;México;140;28629;21844;2591;6785
+2025;Nov;Montana;Governo;Estados Unidos;407;82479;61364;2991;21115
+2025;Nov;Montana;Governo;Canadá;477;96664;71918;3506;24746
+2025;Nov;Montana;Governo;França;548;111052;82623;4028;28429
+2025;Nov;Montana;Governo;Alemanha;310;62821;46739;2279;16082
+2025;Nov;Montana;Governo;México;380;77007;57293;2793;19714
+2025;Nov;Montana;Pequenas empresas;Estados Unidos;272;56509;42551;2787;13958
+2025;Nov;Montana;Pequenas empresas;Canadá;315;65443;49279;3227;16164
+2025;Nov;Montana;Pequenas empresas;França;358;74376;56005;3668;18371
+2025;Nov;Montana;Pequenas empresas;Alemanha;213;44252;33322;2182;10930
+2025;Nov;Montana;Pequenas empresas;México;256;53185;40048;2623;13137
+2025;Nov;Montana;Empresas;Estados Unidos;210;44660;34031;2800;10629
+2025;Nov;Montana;Empresas;Canadá;240;51040;38892;3200;12148
+2025;Nov;Montana;Empresas;França;137;29135;22201;1827;6934
+2025;Nov;Montana;Empresas;Alemanha;168;35728;27225;2240;8503
+2025;Nov;Montana;Empresas;México;198;42108;32086;2640;10022
+2025;Nov;Montana;Mercado intermediário;Estados Unidos;189;41086;31677;3140;9409
+2025;Nov;Montana;Mercado intermediário;Canadá;103;22391;17263;1711;5128
+2025;Nov;Montana;Mercado intermediário;França;128;27825;21453;2127;6372
+2025;Nov;Montana;Mercado intermediário;Alemanha;154;33477;25811;2559;7666
+2025;Nov;Montana;Mercado intermediário;México;179;38912;30001;2974;8911
+2025;Nov;Montana;Parceiros;Estados Unidos;150;33287;25964;3013;7323
+2025;Nov;Montana;Parceiros;Canadá;86;19085;14886;1727;4199
+2025;Nov;Montana;Parceiros;França;105;23301;18175;2109;5126
+2025;Nov;Montana;Parceiros;Alemanha;124;27517;21463;2491;6054
+2025;Nov;Montana;Parceiros;México;142;31512;24579;2852;6933
+2025;Nov;Carretera;Governo;Estados Unidos;437;96570;73490;3503;23080
+2025;Nov;Carretera;Governo;Canadá;498;110051;83749;3991;26302
+2025;Nov;Carretera;Governo;França;292;64528;49106;2340;15422
+2025;Nov;Carretera;Governo;Alemanha;353;78008;59364;2829;18644
+2025;Nov;Carretera;Governo;México;414;91488;69622;3318;21866
+2025;Nov;Carretera;Pequenas empresas;Estados Unidos;288;65048;50087;3208;14961
+2025;Nov;Carretera;Pequenas empresas;Canadá;162;36589;28174;1805;8415
+2025;Nov;Carretera;Pequenas empresas;França;199;44946;34608;2217;10338
+2025;Nov;Carretera;Pequenas empresas;Alemanha;236;53303;41043;2629;12260
+2025;Nov;Carretera;Pequenas empresas;México;273;61660;47478;3041;14182
+2025;Nov;Carretera;Empresas;Estados Unidos;218;50259;39152;3151;11107
+2025;Nov;Carretera;Empresas;Canadá;129;29740;23167;1865;6573
+2025;Nov;Carretera;Empresas;França;156;35965;28017;2255;7948
+2025;Nov;Carretera;Empresas;Alemanha;182;41959;32686;2631;9273
+2025;Nov;Carretera;Empresas;México;208;47953;37355;3007;10598
+2025;Nov;Carretera;Mercado intermediário;Estados Unidos;98;23034;18151;1760;4883
+2025;Nov;Carretera;Mercado intermediário;Canadá;120;28204;22225;2156;5979
+2025;Nov;Carretera;Mercado intermediário;França;142;33375;26299;2551;7076
+2025;Nov;Carretera;Mercado intermediário;Alemanha;164;38546;30374;2946;8172
+2025;Nov;Carretera;Mercado intermediário;México;89;20918;16483;1599;4435
+2025;Nov;Carretera;Parceiros;Estados Unidos;81;19386;15451;1755;3935
+2025;Nov;Carretera;Parceiros;Canadá;97;23216;18503;2101;4713
+2025;Nov;Carretera;Parceiros;França;113;27045;21555;2448;5490
+2025;Nov;Carretera;Parceiros;Alemanha;130;31114;24798;2816;6316
+2025;Nov;Carretera;Parceiros;México;75;17950;14306;1625;3644
+2025;Dez;Paseo;Governo;Estados Unidos;885;114439;77361;4151;37078
+2025;Dez;Paseo;Governo;Canadá;1044;135000;91260;4896;43740
+2025;Dez;Paseo;Governo;França;1202;155431;105071;5637;50360
+2025;Dez;Paseo;Governo;Alemanha;665;85991;58130;3119;27861
+2025;Dez;Paseo;Governo;México;824;106551;72028;3865;34523
+2025;Dez;Paseo;Pequenas empresas;Estados Unidos;594;80384;55063;3964;25321
+2025;Dez;Paseo;Pequenas empresas;Canadá;691;93510;64054;4612;29456
+2025;Dez;Paseo;Pequenas empresas;França;788;106637;73046;5259;33591
+2025;Dez;Paseo;Pequenas empresas;Alemanha;460;62250;42641;3070;19609
+2025;Dez;Paseo;Pequenas empresas;México;556;75241;51540;3711;23701
+2025;Dez;Paseo;Empresas;Estados Unidos;459;64788;44963;4062;19825
+2025;Dez;Paseo;Empresas;Canadá;528;74527;51722;4673;22805
+2025;Dez;Paseo;Empresas;França;295;41639;28897;2611;12742
+2025;Dez;Paseo;Empresas;Alemanha;364;51379;35657;3221;15722
+2025;Dez;Paseo;Empresas;México;432;60977;42318;3823;18659
+2025;Dez;Paseo;Mercado intermediário;Estados Unidos;414;60768;42720;4644;18048
+2025;Dez;Paseo;Mercado intermediário;Canadá;471;69134;48601;5284;20533
+2025;Dez;Paseo;Mercado intermediário;França;277;40659;28583;3107;12076
+2025;Dez;Paseo;Mercado intermediário;Alemanha;334;49025;34465;3747;14560
+2025;Dez;Paseo;Mercado intermediário;México;392;57539;40450;4397;17089
+2025;Dez;Paseo;Parceiros;Estados Unidos;329;50081;35658;4533;14423
+2025;Dez;Paseo;Parceiros;Canadá;186;28313;20159;2563;8154
+2025;Dez;Paseo;Parceiros;França;228;34707;24711;3141;9996
+2025;Dez;Paseo;Parceiros;Alemanha;270;41100;29263;3720;11837
+2025;Dez;Paseo;Parceiros;México;312;47493;33815;4299;13678
+2025;Dez;VTT;Governo;Estados Unidos;728;107486;74488;3898;32998
+2025;Dez;VTT;Governo;Canadá;832;122841;85129;4455;37712
+2025;Dez;VTT;Governo;França;479;70722;49010;2565;21712
+2025;Dez;VTT;Governo;Alemanha;583;86077;59651;3122;26426
+2025;Dez;VTT;Governo;México;688;101580;70395;3684;31185
+2025;Dez;VTT;Pequenas empresas;Estados Unidos;480;73648;51701;3632;21947
+2025;Dez;VTT;Pequenas empresas;Canadá;264;40506;28435;1998;12071
+2025;Dez;VTT;Pequenas empresas;França;327;50173;35221;2474;14952
+2025;Dez;VTT;Pequenas empresas;Alemanha;391;59992;42114;2959;17878
+2025;Dez;VTT;Pequenas empresas;México;455;69812;49008;3443;20804
+2025;Dez;VTT;Empresas;Estados Unidos;365;58046;41271;3639;16775
+2025;Dez;VTT;Empresas;Canadá;212;33714;23971;2114;9743
+2025;Dez;VTT;Empresas;França;257;40870;29059;2563;11811
+2025;Dez;VTT;Empresas;Alemanha;302;48027;34147;3011;13880
+2025;Dez;VTT;Empresas;México;348;55342;39348;3470;15994
+2025;Dez;VTT;Mercado intermediário;Estados Unidos;159;26145;18824;1998;7321
+2025;Dez;VTT;Mercado intermediário;Canadá;197;32393;23323;2476;9070
+2025;Dez;VTT;Mercado intermediário;França;235;38642;27822;2953;10820
+2025;Dez;VTT;Mercado intermediário;Alemanha;273;44890;32321;3431;12569
+2025;Dez;VTT;Mercado intermediário;México;310;50974;36701;3896;14273
+2025;Dez;VTT;Parceiros;Estados Unidos;133;22563;16448;2042;6115
+2025;Dez;VTT;Parceiros;Canadá;161;27313;19911;2472;7402
+2025;Dez;VTT;Parceiros;França;189;32063;23374;2902;8689
+2025;Dez;VTT;Parceiros;Alemanha;217;36813;26837;3332;9976
+2025;Dez;VTT;Parceiros;México;122;20697;15088;1873;5609
+2025;Dez;Velo;Governo;Estados Unidos;764;126809;90034;4599;36775
+2025;Dez;Velo;Governo;Canadá;454;75355;53502;2733;21853
+2025;Dez;Velo;Governo;França;546;90625;64344;3287;26281
+2025;Dez;Velo;Governo;Alemanha;637;105729;75068;3835;30661
+2025;Dez;Velo;Governo;México;728;120833;85791;4383;35042
+2025;Dez;Velo;Pequenas empresas;Estados Unidos;252;43228;31081;2132;12147
+2025;Dez;Velo;Pequenas empresas;Canadá;308;52834;37988;2606;14846
+2025;Dez;Velo;Pequenas empresas;França;364;62441;44895;3079;17546
+2025;Dez;Velo;Pequenas empresas;Alemanha;420;72047;51802;3553;20245
+2025;Dez;Velo;Pequenas empresas;México;231;39626;28491;1954;11135
+2025;Dez;Velo;Empresas;Estados Unidos;201;35559;25887;2229;9672
+2025;Dez;Velo;Empresas;Canadá;240;42458;30909;2662;11549
+2025;Dez;Velo;Empresas;França;280;49534;36061;3106;13473
+2025;Dez;Velo;Empresas;Alemanha;319;56434;41084;3538;15350
+2025;Dez;Velo;Empresas;México;185;32728;23826;2052;8902
+2025;Dez;Velo;Mercado intermediário;Estados Unidos;185;33686;24827;2574;8859
+2025;Dez;Velo;Mercado intermediário;Canadá;218;39694;29254;3034;10440
+2025;Dez;Velo;Mercado intermediário;França;251;45703;33683;3493;12020
+2025;Dez;Velo;Mercado intermediário;Alemanha;139;25310;18653;1934;6657
+2025;Dez;Velo;Mercado intermediário;México;173;31501;23216;2407;8285
+2025;Dez;Velo;Parceiros;Estados Unidos;150;28060;20933;2540;7127
+2025;Dez;Velo;Parceiros;Canadá;175;32737;24422;2963;8315
+2025;Dez;Velo;Parceiros;França;199;37227;27771;3369;9456
+2025;Dez;Velo;Parceiros;Alemanha;116;21700;16188;1964;5512
+2025;Dez;Velo;Parceiros;México;141;26377;19677;2387;6700
+2025;Dez;Amarilla;Governo;Estados Unidos;539;99346;72225;3603;27121
+2025;Dez;Amarilla;Governo;Canadá;640;117962;85758;4278;32204
+2025;Dez;Amarilla;Governo;França;741;136577;99291;4954;37286
+2025;Dez;Amarilla;Governo;Alemanha;842;155193;112825;5629;42368
+2025;Dez;Amarilla;Governo;México;500;92157;66998;3343;25159
+2025;Dez;Amarilla;Pequenas empresas;Estados Unidos;363;68842;50668;3395;18174
+2025;Dez;Amarilla;Pequenas empresas;Canadá;425;80600;59322;3975;21278
+2025;Dez;Amarilla;Pequenas empresas;França;487;92358;67975;4555;24383
+2025;Dez;Amarilla;Pequenas empresas;Alemanha;278;52722;38803;2600;13919
+2025;Dez;Amarilla;Pequenas empresas;México;340;64480;47457;3180;17023
+2025;Dez;Amarilla;Empresas;Estados Unidos;282;54930;40923;3444;14007
+2025;Dez;Amarilla;Empresas;Canadá;325;63306;47163;3969;16143
+2025;Dez;Amarilla;Empresas;França;177;34477;25685;2162;8792
+2025;Dez;Amarilla;Empresas;Alemanha;221;43048;32071;2699;10977
+2025;Dez;Amarilla;Empresas;México;265;51619;38456;3236;13163
+2025;Dez;Amarilla;Mercado intermediário;Estados Unidos;255;50932;38403;3893;12529
+2025;Dez;Amarilla;Mercado intermediário;Canadá;291;58123;43825;4442;14298
+2025;Dez;Amarilla;Mercado intermediário;França;168;33555;25300;2565;8255
+2025;Dez;Amarilla;Mercado intermediário;Alemanha;204;40746;30722;3114;10024
+2025;Dez;Amarilla;Mercado intermediário;México;241;48136;36295;3679;11841
+2025;Dez;Amarilla;Parceiros;Estados Unidos;203;41512;31674;3757;9838
+2025;Dez;Amarilla;Parceiros;Canadá;112;22903;17475;2073;5428
+2025;Dez;Amarilla;Parceiros;França;139;28424;21688;2573;6736
+2025;Dez;Amarilla;Parceiros;Alemanha;166;33946;25901;3072;8045
+2025;Dez;Amarilla;Parceiros;México;192;39262;29957;3554;9305
+2025;Dez;Montana;Governo;Estados Unidos;566;114700;85337;4160;29363
+2025;Dez;Montana;Governo;Canadá;650;131722;98001;4778;33721
+2025;Dez;Montana;Governo;França;366;74170;55182;2690;18988
+2025;Dez;Montana;Governo;Alemanha;450;91192;67847;3308;23345
+2025;Dez;Montana;Governo;México;534;108215;80512;3925;27703
+2025;Dez;Montana;Pequenas empresas;Estados Unidos;374;77700;58508;3832;19192
+2025;Dez;Montana;Pequenas empresas;Canadá;425;88295;66486;4355;21809
+2025;Dez;Montana;Pequenas empresas;França;252;52354;39423;2582;12931
+2025;Dez;Montana;Pequenas empresas;Alemanha;303;62949;47401;3105;15548
+2025;Dez;Montana;Pequenas empresas;México;354;73545;55379;3627;18166
+2025;Dez;Montana;Empresas;Estados Unidos;285;60610;46185;3800;14425
+2025;Dez;Montana;Empresas;Canadá;162;34452;26252;2160;8200
+2025;Dez;Montana;Empresas;França;198;42108;32086;2640;10022
+2025;Dez;Montana;Empresas;Alemanha;235;49977;38082;3133;11895
+2025;Dez;Montana;Empresas;México;271;57632;43916;3614;13716
+2025;Dez;Montana;Mercado intermediário;Estados Unidos;254;55216;42572;4220;12644
+2025;Dez;Montana;Mercado intermediário;Canadá;152;33043;25476;2525;7567
+2025;Dez;Montana;Mercado intermediário;França;182;39564;30504;3024;9060
+2025;Dez;Montana;Mercado intermediário;Alemanha;212;46086;35532;3522;10554
+2025;Dez;Montana;Mercado intermediário;México;243;52825;40728;4037;12097
+2025;Dez;Montana;Parceiros;Estados Unidos;102;22635;17655;2049;4980
+2025;Dez;Montana;Parceiros;Canadá;124;27517;21463;2491;6054
+2025;Dez;Montana;Parceiros;França;147;32621;25444;2953;7177
+2025;Dez;Montana;Parceiros;Alemanha;169;37503;29252;3395;8251
+2025;Dez;Montana;Parceiros;México;93;20638;16098;1868;4540
+2025;Dez;Carretera;Governo;Estados Unidos;591;130602;99388;4737;31214
+2025;Dez;Carretera;Governo;Canadá;345;76240;58019;2765;18221
+2025;Dez;Carretera;Governo;França;418;92372;70295;3350;22077
+2025;Dez;Carretera;Governo;Alemanha;491;108504;82572;3935;25932
+2025;Dez;Carretera;Governo;México;563;124415;94680;4512;29735
+2025;Dez;Carretera;Pequenas empresas;Estados Unidos;191;43139;33217;2128;9922
+2025;Dez;Carretera;Pequenas empresas;Canadá;235;53077;40869;2618;12208
+2025;Dez;Carretera;Pequenas empresas;França;280;63241;48696;3119;14545
+2025;Dez;Carretera;Pequenas empresas;Alemanha;324;73179;56348;3609;16831
+2025;Dez;Carretera;Pequenas empresas;México;369;83343;64174;4110;19169
+2025;Dez;Carretera;Empresas;Estados Unidos;153;35273;27478;2212;7795
+2025;Dez;Carretera;Empresas;Canadá;184;42420;33045;2660;9375
+2025;Dez;Carretera;Empresas;França;216;49798;38793;3122;11005
+2025;Dez;Carretera;Empresas;Alemanha;247;56945;44360;3570;12585
+2025;Dez;Carretera;Empresas;México;140;32276;25143;2024;7133
+2025;Dez;Carretera;Mercado intermediário;Estados Unidos;142;33375;26299;2551;7076
+2025;Dez;Carretera;Mercado intermediário;Canadá;168;39486;31115;3018;8371
+2025;Dez;Carretera;Mercado intermediário;França;194;45597;35930;3485;9667
+2025;Dez;Carretera;Mercado intermediário;Alemanha;220;51708;40746;3952;10962
+2025;Dez;Carretera;Mercado intermediário;México;131;30790;24263;2353;6527
+2025;Dez;Carretera;Parceiros;Estados Unidos;115;27524;21937;2491;5587
+2025;Dez;Carretera;Parceiros;Canadá;135;32310;25751;2925;6559
+2025;Dez;Carretera;Parceiros;França;154;36858;29376;3336;7482
+2025;Dez;Carretera;Parceiros;Alemanha;88;21062;16786;1906;4276
+2025;Dez;Carretera;Parceiros;México;108;25848;20601;2340;5247
