@@ -1,34 +1,76 @@
-# Insightful Analytics
+<p align="center">
+  <img src="banner-insights.svg" alt="Insights Playground Banner" width="100%">
+</p>
 
-/skill:seo-review  /skill:skill-creator  Crie um dashboard analítico interativo e profissional baseado nos arquivos de referência anexados (Sales Report.pbix e relatórios associados).
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Ativo%20--%20Production-success?style=for-the-badge&logo=git" alt="Status">
+  <img src="https://img.shields.io/badge/Qualidade-ISO%209001-blue?style=for-the-badge&logo=checkmarx&logoColor=white" alt="ISO 9001">
+  <img src="https://img.shields.io/badge/Governança-Indústria%204.0-orange?style=for-the-badge&logo=databricks&logoColor=white" alt="Indústria 4.0">
+  <img src="https://img.shields.io/badge/Lovable-Vibe%20Coding-purple?style=for-the-badge&logo=rocket" alt="Lovable">
+  <img src="https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge&logo=opensourceinitiative" alt="Licença">
+</p>
 
-O sistema deve incluir:
+# Insights Playground | Atlas Dashboard de Vendas
 
-Estrutura de Dados: Mock data local estruturado para simular as métricas de vendas, KPIs principais e tabelas detalhadas apresentadas nos modelos de referência.
+> **AI Engineer | Especialista em Governança 4.0 e Qualidade | Engenheiro Químico**  
+> [Mauá, SP](mailto:ornelas.tozato@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rafaeltozato81) | [GitHub](https://github.com/Rafael-TOZATO) | [Portfólio PWA](https://tozato-dev-hub.vercel.app) | [Medium](https://medium.com/@ornelas.tozato)
 
-Layout e Design: Interface moderna, limpa e altamente profissional, totalmente reestilizada com uma paleta de cores contemporânea e componentes visuais mais avançados e fluidos, substituindo o padrão visual antigo do Power BI por gráficos e cartões de resumo de última geração.
+![Branch Protection](https://img.shields.io/badge/branch%20protection-active-success)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
 
-Navegação e Filtros: Componentes interativos de filtragem por período, categoria e região para dinamizar a análise dos dados.
+---
 
-This project was built with [Lovable](https://lovable.dev).
+## 🚀 Sobre o Projeto
 
-**Live app**: https://insights-playground-52.lovable.app
+O **Insights Playground** é um ecossistema analítico interativo de alta performance focado em inteligência comercial, gestão estratégica e visualização avançada de dados[cite: 7]. Desenvolvido integrando ferramentas modernas de engenharia de software e IA generativa via **Lovable**, este projeto simula um ambiente corporativo de tomada de decisões globais (Atlas Sales Intelligence)[cite: 1, 3].
 
-## Build with Lovable
+* **Live App:** [https://insights-playground-52.lovable.app](https://insights-playground-52.lovable.app)[cite: 3]
+* **Repositório GitHub:** [Rafael-TOZATO/insights-playground-52](https://github.com/Rafael-TOZATO/insights-playground-52)
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/d6d28423-b6fd-4dcb-b92f-6f9ee3995db8).
+---
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+## 📊 Principais Funcionalidades & Métricas
+* **Visão Geral de Vendas:** Acompanhamento dinâmico de Receita Total, Lucro Bruto, Unidades Vendidas e Margem de Lucro comparativas anuais[cite: 1].
+* **Filtros Inteligentes:** Segmentação de dados customizada por ano (ex: 2025 vs 2024), categorias comerciais e regiões geográficas[cite: 1].
+* **Exportação e Análise:** Ferramentas integradas para exportação de dados via CSV e redefinição de parâmetros analíticos[cite: 1].
 
-## Development
+---
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+## 🛠️ Tecnologias Utilizadas
+* **Frontend & UI:** React, TypeScript, Tailwind CSS, Vite.
+* **Inteligência Artificial & Prototipagem:** Lovable (Vibe Coding).
+* **Controle de Versão:** Git e GitHub.
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
+---
+
+## 📂 Estrutura do Repositório
+* `src/`: Código-fonte da aplicação web interativa e componentes de interface.
+* `public/`: Ativos estáticos e mídias do projeto.
+* `atlas-vendas.csv`: Base de dados transacional estruturada para suporte aos KPIs e relatórios do dashboard.
+
+---
+
+## 🔄 Branches e Versionamento
+O projeto adota uma estrutura moderna de controle de fluxo para desenvolvimento seguro:
+* `main`: Branch principal de produção e sincronização contínua com o Lovable.
+
+---
+
+## 🛠️ Como Executar o Projeto Localmente
+
+Se preferir rodar o projeto em sua máquina local, certifique-se de ter o [Node.js e npm](https://github.com/nvm-sh/nvm#installing-and-updating) instalados.
+
+```bash
+# Clone o repositório
+git clone [https://github.com/Rafael-TOZATO/insights-playground-52.git](https://github.com/Rafael-TOZATO/insights-playground-52.git)
+
+# Acesse o diretório do projeto
+cd insights-playground-52
+
+# Instale as dependências
 npm i
+
+# Inicie o servidor de desenvolvimento
 npm run dev
-```
