@@ -5,3 +5,6 @@
 - [x] Verificar cálculos, interações e apresentação.
 - [x] Analisar o repositório fornecido e adicionar Recursos Humanos com métricas, filtros, gráficos e exportação no padrão atual.
 - [x] Corrigir erros da prévia e validar a nova seção.
+- [ ] Implementar importação CSV de vendas e RH com mapeamento, prévia e validação integral antes da substituição.
+- [ ] Integrar dados importados aos filtros, métricas, gráficos e exportações de todas as abas.
+- [ ] Testar importações válidas e inválidas e verificar as telas.
