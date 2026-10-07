@@ -76,7 +76,7 @@ export function parseNumber(value: string, format: NumericFormat): number {
 
 const dimension = z.string().trim().min(1).max(160).refine(v => v !== 'all', 'Valor reservado; use outro identificador.');
 const nonnegative = z.number().finite().min(0).max(1e12);
-const employeeSchema = z.object({ id: dimension, department: dimension, sex: dimension, salary: nonnegative, dependents: nonnegative.int() });
+const employeeSchema = z.object({ id: dimension, department: dimension, sex: z.enum(['Feminino', 'Masculino']), salary: nonnegative, dependents: nonnegative.int() });
 const saleSchema = z.object({ id: z.string(), year: z.number().int().min(1900).max(9999), month: z.number().int().min(0).max(11), product: dimension, category: dimension, region: dimension, units: nonnegative.int(), sales: nonnegative, cogs: nonnegative, discounts: nonnegative, profit: z.number().finite() });
 const englishMonths = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
 const fullMonths = ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'];
