@@ -27,8 +27,16 @@
 O **Insights Playground** é um ecossistema analítico interativo de alta performance focado em inteligência comercial, gestão estratégica e visualização avançada de dados. Desenvolvido integrando ferramentas modernas de engenharia de software e IA generativa via **Lovable**, este projeto simula um ambiente corporativo de tomada de decisões globais (Atlas Sales Intelligence).
 
 * **Live App:** [https://aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
-* **Repositório GitHub:** [Rafael-TOZATO/insights-playground-52](https://github.com/Rafael-TOZATO/insights-playground-52)
 
+---
+
+## 📞 Contato
+
+- **E-mail:** [ornelas.tozato@gmail.com](mailto:ornelas.tozato@gmail.com)
+- **LinkedIn:** [Rafael Ornelas Tozato](https://www.linkedin.com/in/rafaeltozato81)
+- **Medium:** [Rafael Ornelas Tozato](https://medium.com/@ornelas.tozato)
+- **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+- **Lovable:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
 
 ---
 
