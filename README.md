@@ -26,7 +26,7 @@
 
 O **Insights Playground** é um ecossistema analítico interativo de alta performance focado em inteligência comercial, gestão estratégica e visualização avançada de dados. Desenvolvido integrando ferramentas modernas de engenharia de software e IA generativa via **Lovable**, este projeto simula um ambiente corporativo de tomada de decisões globais (Atlas Sales Intelligence)[cite: 1, 3].
 
-* **Live App:** [https://insights-playground-52.lovable.app](https://insights-playground-52.lovable.app)[cite: 3]
+* **Live App:** [https://insights-playground-52.lovable.app](https://aurora-bi-dio.lovable.app)[cite: 3]
 * **Repositório GitHub:** [Rafael-TOZATO/insights-playground-52](https://github.com/Rafael-TOZATO/insights-playground-52)
 
 ---
