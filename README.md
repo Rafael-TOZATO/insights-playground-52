@@ -24,7 +24,7 @@
 
 ## 🚀 Sobre o Projeto
 
-O **Insights Playground** é um ecossistema analítico interativo de alta performance focado em inteligência comercial, gestão estratégica e visualização avançada de dados. Desenvolvido integrando ferramentas modernas de engenharia de software e IA generativa via **Lovable**, este projeto simula um ambiente corporativo de tomada de decisões globais (Atlas Sales Intelligence)[cite: 1, 3].
+O **Insights Playground** é um ecossistema analítico interativo de alta performance focado em inteligência comercial, gestão estratégica e visualização avançada de dados. Desenvolvido integrando ferramentas modernas de engenharia de software e IA generativa via **Lovable**, este projeto simula um ambiente corporativo de tomada de decisões globais (Atlas Sales Intelligence).
 
 * **Live App:** [https://aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
 * **Repositório GitHub:** [Rafael-TOZATO/insights-playground-52](https://github.com/Rafael-TOZATO/insights-playground-52)
@@ -33,9 +33,9 @@ O **Insights Playground** é um ecossistema analítico interativo de alta perfor
 ---
 
 ## 📊 Principais Funcionalidades & Métricas
-* **Visão Geral de Vendas:** Acompanhamento dinâmico de Receita Total, Lucro Bruto, Unidades Vendidas e Margem de Lucro comparativas anuais[cite: 1].
-* **Filtros Inteligentes:** Segmentação de dados customizada por ano (ex: 2025 vs 2024), categorias comerciais e regiões geográficas[cite: 1].
-* **Exportação e Análise:** Ferramentas integradas para exportação de dados via CSV e redefinição de parâmetros analíticos[cite: 1].
+* **Visão Geral de Vendas:** Acompanhamento dinâmico de Receita Total, Lucro Bruto, Unidades Vendidas e Margem de Lucro comparativas anuais.
+* **Filtros Inteligentes:** Segmentação de dados customizada por ano (ex: 2025 vs 2024), categorias comerciais e regiões geográficas.
+* **Exportação e Análise:** Ferramentas integradas para exportação de dados via CSV e redefinição de parâmetros analíticos.
 
 ---
 
