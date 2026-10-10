@@ -26,18 +26,6 @@
 
 O **Insights Playground** é um ecossistema analítico interativo de alta performance focado em inteligência comercial, gestão estratégica e visualização avançada de dados. Desenvolvido integrando ferramentas modernas de engenharia de software e IA generativa via **Lovable**, este projeto simula um ambiente corporativo de tomada de decisões globais (Atlas Sales Intelligence).
 
-* **Live App:** [https://aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
-
----
-
-## 📞 Contato
-
-- **E-mail:** [ornelas.tozato@gmail.com](mailto:ornelas.tozato@gmail.com)
-- **LinkedIn:** [Rafael Ornelas Tozato](https://www.linkedin.com/in/rafaeltozato81)
-- **Medium:** [Rafael Ornelas Tozato](https://medium.com/@ornelas.tozato)
-- **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-- **Lovable:** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
-
 ---
 
 ## 📊 Principais Funcionalidades & Métricas
@@ -72,15 +60,19 @@ O projeto adota uma estrutura moderna de controle de fluxo para desenvolvimento 
 
 Se preferir rodar o projeto em sua máquina local, certifique-se de ter o [Node.js e npm](https://github.com/nvm-sh/nvm#installing-and-updating) instalados.
 
-```bash
-# Clone o repositório
-git clone [https://github.com/Rafael-TOZATO/insights-playground-52.git](https://github.com/Rafael-TOZATO/insights-playground-52.git)
+---
 
-# Acesse o diretório do projeto
-cd insights-playground-52
+* **Live App:** [https://aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
 
-# Instale as dependências
-npm i
+## 📬 Contatos
+
+- 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+- 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+- ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
+- 🌐 **Portfólio PWA:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
+- 🚀 **Aurora BI (Lovable):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
+
+
 
 # Inicie o servidor de desenvolvimento
 npm run dev
