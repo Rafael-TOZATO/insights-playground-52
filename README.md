@@ -73,6 +73,3 @@ Se preferir rodar o projeto em sua máquina local, certifique-se de ter o [Node.
 - 🚀 **Aurora BI (Lovable):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
 
 
-
-# Inicie o servidor de desenvolvimento
-npm run dev
