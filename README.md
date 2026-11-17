@@ -20,27 +20,19 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
 
----
-
 ## 🚀 Sobre o Projeto
 
 O **Insights Playground** é um ecossistema analítico interativo de alta performance focado em inteligência comercial, gestão estratégica e visualização avançada de dados. Desenvolvido integrando ferramentas modernas de engenharia de software e IA generativa via **Lovable**, este projeto simula um ambiente corporativo de tomada de decisões globais (Atlas Sales Intelligence).
-
----
 
 ## 📊 Principais Funcionalidades & Métricas
 * **Visão Geral de Vendas:** Acompanhamento dinâmico de Receita Total, Lucro Bruto, Unidades Vendidas e Margem de Lucro comparativas anuais.
 * **Filtros Inteligentes:** Segmentação de dados customizada por ano (ex: 2025 vs 2024), categorias comerciais e regiões geográficas.
 * **Exportação e Análise:** Ferramentas integradas para exportação de dados via CSV e redefinição de parâmetros analíticos.
 
----
-
 ## 🛠️ Tecnologias Utilizadas
 * **Frontend & UI:** React, TypeScript, Tailwind CSS, Vite.
 * **Inteligência Artificial & Prototipagem:** Lovable (Vibe Coding).
 * **Controle de Versão & Governança:** Git, GitHub, Proteção de Branches (main).
-
----
 
 ## 📂 Estrutura do Repositório
 * `src/`: Código-fonte da aplicação web interativa e componentes de interface.
@@ -48,30 +40,33 @@ O **Insights Playground** é um ecossistema analítico interativo de alta perfor
 * `atlas-vendas.csv`: Base de dados transacional estruturada para suporte aos KPIs e relatórios do dashboard.
 * `banner_insights_playground.jpg`: Banner corporativo principal de destaque do repositório.
 
----
-
 ## 🔄 Branches e Fluxo de Trabalho
 O projeto adota uma estrutura moderna de controle de fluxo para desenvolvimento seguro:
 * `main`: Branch principal de produção e sincronização contínua com o Lovable.
-
----
 
 ## 🛠️ Como Executar o Projeto Localmente
 
 Se preferir rodar o projeto em sua máquina local, certifique-se de ter o [Node.js e npm](https://github.com/nvm-sh/nvm#installing-and-updating) instalados.
 
----
-
 * **Live App:** [https://aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
 
----
+**Rafael Ornelas Tozato**
 
-## 📬 Contatos
+Engenharia Química | Garantia da Qualidade | Governança 4.0
 
-- 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-- 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-- ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
-- 🌐 **Portfólio PWA (Dev Hub):** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
-- 🌐 **H-Folio:** [h-folio-psi.vercel.app](https://h-folio-psi.vercel.app)
-- 🚀 **Aurora BI (Lovable):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
-- 📜 **Microsoft Learn:** [Transcript](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
+## 📬 CONTATOS E PERFIS
+
+💻 **PROJETOS E PORTFÓLIOS**
+* Ecossistema de Aplicativos: [tozato-ai-core.vercel.app](https://tozato-ai-core.vercel.app)
+* H-Folio Professional: [h-folio-I0.vercel.app](https://h-folio-I0.vercel.app)
+
+🐙 **CÓDIGOS E REPOSITÓRIOS**
+* GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+
+✍️ **ARTIGOS E PUBLICAÇÕES**
+* Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
+* Comunidade DEV: [dev.to/rafaeltozato](https://dev.to/rafaeltozato)
+
+💼 **CONTATO**
+* LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+* E-mail: ornelas.tozato@gmail.com
