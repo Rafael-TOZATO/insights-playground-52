@@ -2,12 +2,12 @@
   <img src="https://img.shields.io/badge/Status-Ativo%20--%20Production-success?style=for-the-badge&logo=git" alt="Status">
   <img src="https://img.shields.io/badge/Branch%20Protection-Active-success?style=for-the-badge&logo=github" alt="Branch Protection">
   <img src="https://img.shields.io/badge/Qualidade-ISO%209001-blue?style=for-the-badge&logo=checkmarx&logoColor=white" alt="ISO 9001">
-  <img src="https://img.shields.io/badge/Governança-Indústria%204.0-orange?style=for-the-badge&logo=databricks&logoColor=white" alt="Indústria 4.0">
+  <img src="https://img.shields.io/badge/Governan%C3%A7a-Ind%C3%BAstria%204.0-orange?style=for-the-badge&logo=databricks&logoColor=white" alt="Indústria 4.0">
   <img src="https://img.shields.io/badge/Lovable-Vibe%20Coding-purple?style=for-the-badge&logo=rocket" alt="Lovable">
 </p>
 
 <p align="center">
-  <img src="banner_insights_playground.jpg" alt="Insights Playground Banner" width="100%">
+  <img src="1795618315052.gif" alt="Insights Playground Banner" width="100%">
 </p>
 
 # Insights Playground | Atlas Dashboard de Vendas
@@ -38,7 +38,7 @@ O **Insights Playground** é um ecossistema analítico interativo de alta perfor
 * `src/`: Código-fonte da aplicação web interativa e componentes de interface.
 * `public/`: Ativos estáticos e mídias do projeto.
 * `atlas-vendas.csv`: Base de dados transacional estruturada para suporte aos KPIs e relatórios do dashboard.
-* `banner_insights_playground.jpg`: Banner corporativo principal de destaque do repositório.
+* `1795618315052.gif`: Banner animado principal de destaque do repositório.
 
 ## 🔄 Branches e Fluxo de Trabalho
 O projeto adota uma estrutura moderna de controle de fluxo para desenvolvimento seguro:
