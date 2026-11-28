@@ -57,24 +57,24 @@ Engenharia Química | Garantia da Qualidade | Governança 4.0
 ## 📬 CONTATOS E PERFIS
 
 💻 **PROJECTS & PORTFOLIOS**
-* App Ecosystem / Dev Hub: https://tozato-ai-core.vercel.app
-* H-Folio Professional: https://h-folio-I0.vercel.app
+* **App Ecosystem / Dev Hub:**<br>https://tozato-ai-core.vercel.app
+* **H-Folio Professional:**<br>https://h-folio-I0.vercel.app
 
-🧩 **AGENSI**
-* Creator: https://www.agensi.io/creators/rafael-ornelas-tozato
+🧩 **AGENSI.IO**
+* **Creator:**<br>https://www.agensi.io/creators/rafael-ornelas-tozato
 
 🐙 **CODES & REPOSITORIES**
-* GitHub: https://github.com/Rafael-TOZATO
+* **GitHub:**<br>https://github.com/Rafael-TOZATO
 
 ✍️ **ARTICLES & PUBLICATIONS**
-* Medium: https://medium.com/@ornelas.tozato
-* DEV Community: https://dev.to/rafaeltozato
+* **Medium:**<br>https://medium.com/@ornelas.tozato
+* **DEV Community:**<br>https://dev.to/rafaeltozato
 
 🪟 **MICROSOFT LEARN**
-* Perfil: https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209
+* **Perfil:**<br>https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209
 
 💼 **LINKEDIN**
-* Perfil Profissional: https://www.linkedin.com/in/rafaeltozato81
+* **Perfil Profissional:**<br>https://www.linkedin.com/in/rafaeltozato81
 
 📬 **CONTACT**
-* E-mail: ornelas.tozato@gmail.com
+* **E-mail:**<br>ornelas.tozato@gmail.com
